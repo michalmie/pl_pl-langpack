@@ -50,7 +50,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 //to translate, only modify the right value in each key/value pair
 $app_list_strings = array (
 //e.g. auf Deutsch 'Contacts'=>'Contakten',
-  'language_pack_name' => 'US English',
+  'language_pack_name' => 'Polish / Polski',
   'moduleList' =>
   array (
     'Home' => 'Home',
