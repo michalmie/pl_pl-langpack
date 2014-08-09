@@ -378,8 +378,8 @@ $app_list_strings = array (
   'call_direction_default' => 'Outbound',
   'call_direction_dom' =>
   array (
-    'Inbound' => 'Inbound',
-    'Outbound' => 'Outbound',
+    'Inbound' => 'Przychodzące',
+    'Outbound' => 'Wychodzące',
   ),
   'lead_status_dom' =>
   array (
@@ -393,8 +393,8 @@ $app_list_strings = array (
   ),
    'gender_list' =>
   array (
-    'male' => 'Male',
-    'female' => 'Female',
+    'male' => 'Mężczyzna',
+    'female' => 'Kobieta',
   ),
   //Note:  do not translate case_status_default_key
 //       it is the key for the default case_status_dom value
@@ -411,19 +411,19 @@ $app_list_strings = array (
   'case_priority_default_key' => 'P2',
   'case_priority_dom' =>
   array (
-    'P1' => 'High',
-    'P2' => 'Medium',
-    'P3' => 'Low',
+    'P1' => 'Wysoki',
+    'P2' => 'Średni',
+    'P3' => 'Niski',
   ),
   'user_type_dom' =>
   array (
-    'RegularUser' => 'Regular User',
+    'RegularUser' => 'Zwykły użytkownik',
     'Administrator' => 'Administrator',
   ),
   'user_status_dom' =>
   array (
-    'Active' => 'Active',
-    'Inactive' => 'Inactive',
+    'Active' => 'Aktywne',
+    'Inactive' => 'Nieaktywne',
   ),
   'employee_status_dom' =>
   array (
@@ -468,8 +468,8 @@ $app_list_strings = array (
     'project_status_default' => 'Draft',
 
     'project_duration_units_dom' => array (
-        'Days' => 'Days',
-        'Hours' => 'Hours',
+        'Days' => 'Dni',
+        'Hours' => 'Godziny',
     ),
 
     'project_priority_options' => array (
@@ -592,11 +592,11 @@ $app_list_strings = array (
   'bug_status_default_key' => 'New',
   'bug_status_dom' =>
   array (
-    'New' => 'New',
-    'Assigned' => 'Assigned',
-    'Closed' => 'Closed',
-    'Pending' => 'Pending',
-    'Rejected' => 'Rejected',
+    'New' => 'Nowe',
+    'Assigned' => 'Przypisane',
+    'Closed' => 'Zamknięte',
+    'Pending' => 'Oczekujące',
+    'Rejected' => 'Odrzucone',
   ),
    'bug_type_default_key' => 'Bug',
   'bug_type_dom' =>
@@ -607,8 +607,8 @@ $app_list_strings = array (
  'case_type_dom' =>
   array (
     'Administration' => 'Administration',
-    'Product' => 'Product',
-    'User' => 'User',
+    'Product' => 'Produkt',
+    'User' => 'Użytkownik',
   ),
 
   'source_default_key' => '',
@@ -681,10 +681,10 @@ $app_list_strings = array (
   'newsletter_frequency_dom' =>
   array (
         '' => '',
-        'Weekly' => 'Weekly',
-        'Monthly' => 'Monthly',
-        'Quarterly' => 'Quarterly',
-        'Annually' => 'Annually',
+        'Weekly' => 'Tygodniowo',
+        'Monthly' => 'Miesięcznie',
+        'Quarterly' => 'Kwartalnie',
+        'Annually' => 'Rocznie',
         ),
 
   'notifymail_sendtype' =>
@@ -693,53 +693,53 @@ $app_list_strings = array (
   ),
       'dom_cal_month_long'=>array(
                 '0'=>"",
-                '1'=>"January",
-                '2'=>"February",
-                '3'=>"March",
-                '4'=>"April",
-                '5'=>"May",
-                '6'=>"June",
-                '7'=>"July",
-                '8'=>"August",
-                '9'=>"September",
-                '10'=>"October",
-                '11'=>"November",
-                '12'=>"December",
+                '1'=>"Styczeń",
+                '2'=>"Luty",
+                '3'=>"Marzec",
+                '4'=>"Kwiecień",
+                '5'=>"Maj",
+                '6'=>"Czerwiec",
+                '7'=>"Lipiec",
+                '8'=>"Sierpień",
+                '9'=>"Wrzesień",
+                '10'=>"Październik",
+                '11'=>"Listopad",
+                '12'=>"Grudzień",
                 ),
         'dom_cal_month_short'=>array(
                 '0'=>"",
-                '1'=>"Jan",
-                '2'=>"Feb",
+                '1'=>"Sty",
+                '2'=>"Lut",
                 '3'=>"Mar",
-                '4'=>"Apr",
-                '5'=>"May",
-                '6'=>"Jun",
-                '7'=>"Jul",
-                '8'=>"Aug",
-                '9'=>"Sep",
-                '10'=>"Oct",
-                '11'=>"Nov",
-                '12'=>"Dec",
+                '4'=>"Kwi",
+                '5'=>"Maj",
+                '6'=>"Cze",
+                '7'=>"Lip",
+                '8'=>"Sie",
+                '9'=>"Wrz",
+                '10'=>"Paź",
+                '11'=>"Lis",
+                '12'=>"Gru",
                 ),
         'dom_cal_day_long'=>array(
                 '0'=>"",
-                '1'=>"Sunday",
-                '2'=>"Monday",
-                '3'=>"Tuesday",
-                '4'=>"Wednesday",
-                '5'=>"Thursday",
-                '6'=>"Friday",
-                '7'=>"Saturday",
+                '1'=>"Niedziela",
+                '2'=>"Poniedziałek",
+                '3'=>"Wtorek",
+                '4'=>"Środa",
+                '5'=>"Czwartek",
+                '6'=>"Piątek",
+                '7'=>"Sobota",
                 ),
         'dom_cal_day_short'=>array(
                 '0'=>"",
-                '1'=>"Sun",
-                '2'=>"Mon",
-                '3'=>"Tue",
-                '4'=>"Wed",
-                '5'=>"Thu",
-                '6'=>"Fri",
-                '7'=>"Sat",
+                '1'=>"Nie",
+                '2'=>"Pon",
+                '3'=>"Wto",
+                '4'=>"Śro",
+                '5'=>"Czw",
+                '6'=>"Pią",
+                '7'=>"Sob",
         ),
     'dom_meridiem_lowercase'=>array(
                 'am'=>"am",
@@ -779,12 +779,12 @@ $app_list_strings = array (
         'archived'  => 'Archived',
     ),
 
-    'dom_email_server_type' => array(   ''          => '--None--',
+    'dom_email_server_type' => array(   ''          => '--Brak--',
                                         'imap'      => 'IMAP',
     ),
     'dom_mailbox_type'      => array(/*''           => '--None Specified--',*/
                                      'pick'     => '--None--',
-                                     'createcase'  => 'Create Case',
+                                     'createcase'  => 'Dodaj zgłoszenie serwisowe',
                                      'bounce'   => 'Bounce Handling',
     ),
     'dom_email_distribution'=> array(''             => '--None--',
@@ -798,11 +798,11 @@ $app_list_strings = array (
     'dom_email_errors'      => array(1 => 'Only select one user when Direct Assigning items.',
                                      2 => 'You must assign Only Checked Items when Direct Assigning items.',
     ),
-    'dom_email_bool'        => array('bool_true' => 'Yes',
-                                     'bool_false' => 'No',
+    'dom_email_bool'        => array('bool_true' => 'Tak',
+                                     'bool_false' => 'Nie',
     ),
-    'dom_int_bool'          => array(1 => 'Yes',
-                                     0 => 'No',
+    'dom_int_bool'          => array(1 => 'Tak',
+                                     0 => 'Nie',
     ),
     'dom_switch_bool'       => array ('on' => 'Yes',
                                         'off' => 'No',
@@ -826,8 +826,8 @@ $app_list_strings = array (
 
     'scheduler_status_dom' =>
         array (
-        'Active' => 'Active',
-        'Inactive' => 'Inactive',
+        'Active' => 'Aktywne',
+        'Inactive' => 'Nieaktywne',
         ),
 
     'scheduler_period_dom' =>
@@ -837,8 +837,8 @@ $app_list_strings = array (
         ),
     'forecast_schedule_status_dom' =>
     array (
-    'Active' => 'Active',
-    'Inactive' => 'Inactive',
+    'Active' => 'Aktywne',
+    'Inactive' => 'Nieaktywne',
   ),
     'forecast_type_dom' =>
     array (
@@ -988,9 +988,9 @@ $app_list_strings = array (
   ),
 
   'custom_fields_importable_dom' => array (
-    'true'=>'Yes',
-    'false'=>'No',
-    'required'=>'Required',
+    'true'=>'Tak',
+    'false'=>'Nie',
+    'required'=>'Wymagane',
   ),
 
     'Elastic_boost_options' => array (
@@ -1012,9 +1012,9 @@ $app_list_strings = array (
 
 
     'projects_priority_options' => array (
-        'high'      => 'High',
-        'medium'    => 'Medium',
-        'low'       => 'Low',
+        'high'      => 'Wysoki',
+        'medium'    => 'Średni',
+        'low'       => 'Niski',
     ),
 
     'projects_status_options' => array (
@@ -1074,12 +1074,12 @@ $app_list_strings = array (
     ),
     'dashlet_auto_refresh_options' =>
     array (
-        '-1'  => 'Do not auto-refresh',
-        '30'  => 'Every 30 seconds',
-        '60'  => 'Every 1 minute',
-        '180'   => 'Every 3 minutes',
-        '300'   => 'Every 5 minutes',
-        '600'   => 'Every 10 minutes',
+        '-1'  => 'Nie odświeżaj automatycznie',
+        '30'  => 'Co 30 sekund',
+        '60'  => 'Co 1 minutę',
+        '180'   => 'Co 3 minuty',
+        '300'   => 'Co 5 minut',
+        '600'   => 'Co 10 minut',
     ),
   'dashlet_auto_refresh_options_admin' =>
     array (
