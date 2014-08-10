@@ -1074,7 +1074,7 @@ $app_list_strings = array (
     ),
     'dashlet_auto_refresh_options' =>
     array (
-        '-1'  => 'Nie odświeżaj automatycznie',
+        '-1'  => 'Nie odświeżaj',
         '30'  => 'Co 30 sekund',
         '60'  => 'Co 1 minutę',
         '180'   => 'Co 3 minuty',
@@ -2139,9 +2139,9 @@ $app_strings = array (
     'LBL_SAVED' => 'Saved',
     'LBL_SAVING' => 'Saving',
     'LBL_FAILED' => 'Failed!',
-    'LBL_DISPLAY_COLUMNS' => 'Display Columns',
+    'LBL_DISPLAY_COLUMNS' => 'Wyświetl kolumny',
     'LBL_HIDE_COLUMNS' => 'Ukryj kolumny',
-    'LBL_SEARCH_CRITERIA' => 'Search Criteria',
+    'LBL_SEARCH_CRITERIA' => 'Kryteria wyszukiwania',
     'LBL_SAVED_VIEWS' => 'Saved Views',
     'LBL_PROCESSING_REQUEST'=>'Processing..',
     'LBL_REQUEST_PROCESSED'=>'Done',
@@ -2212,11 +2212,11 @@ $app_strings = array (
     'ERR_SMARTY_MISSING_DISPLAY_PARAMS' => 'Missing index in displayParams Array for: ',
 
     /* MySugar Framework (for Home and Dashboard) */
-    'LBL_DASHLET_CONFIGURE_GENERAL' => 'General',
-    'LBL_DASHLET_CONFIGURE_FILTERS' => 'Filters',
-    'LBL_DASHLET_CONFIGURE_MY_ITEMS_ONLY' => 'Only My Items',
-    'LBL_DASHLET_CONFIGURE_TITLE' => 'Title',
-    'LBL_DASHLET_CONFIGURE_DISPLAY_ROWS' => 'Display Rows',
+    'LBL_DASHLET_CONFIGURE_GENERAL' => 'Ogólne',
+    'LBL_DASHLET_CONFIGURE_FILTERS' => 'Filtry',
+    'LBL_DASHLET_CONFIGURE_MY_ITEMS_ONLY' => 'Wyłącznie moje elementy',
+    'LBL_DASHLET_CONFIGURE_TITLE' => 'Tytuł',
+    'LBL_DASHLET_CONFIGURE_DISPLAY_ROWS' => 'Wyświetl kolumny',
 
     // MySugar status strings
     'LBL_CREATING_NEW_PAGE' => 'Creating New Page ...',
@@ -2242,23 +2242,23 @@ $app_strings = array (
     'LBL_RELOAD_PAGE' => 'Please <a href="javascript: window.location.reload()">reload the window</a> to use this Sugar Dashlet.',
     'LBL_ADD_DASHLETS' => 'Add Dashlets',
     'LBL_CLOSE_DASHLETS' => 'Zamknij',
-    'LBL_OPTIONS' => 'Options',
+    'LBL_OPTIONS' => 'Opcje',
     'LBL_NUMBER_OF_COLUMNS' => 'Wybierz liczbę kolumn',
     'LBL_1_COLUMN' => '1 kolumna',
     'LBL_2_COLUMN' => '2 kolumny',
     'LBL_3_COLUMN' => '3 kolumny',
-    'LBL_PAGE_NAME' => 'Page Name',
+    'LBL_PAGE_NAME' => 'Nazwa strony',
 
     'LBL_SEARCH_RESULTS' => 'Wyniki wyszukiwania',
-    'LBL_SEARCH_MODULES' => 'Modules',
-    'LBL_SEARCH_CHARTS' => 'Charts',
-    'LBL_SEARCH_REPORT_CHARTS' => 'Report Charts',
+    'LBL_SEARCH_MODULES' => 'Moduły',
+    'LBL_SEARCH_CHARTS' => 'Wykresy',
+    'LBL_SEARCH_REPORT_CHARTS' => 'Wykresy raportów',
     'LBL_SEARCH_TOOLS' => 'Narzędzia',
     'LBL_SEARCH_HELP_TITLE' => 'Search Tips',
     'LBL_SEARCH_HELP_CLOSE_TOOLTIP' => 'Zamknij',
     'LBL_SEARCH_RESULTS_FOUND' => 'Search Results Found',
     'LBL_SEARCH_RESULTS_TIME' => 'ms.',
-    'ERR_BLANK_PAGE_NAME' => 'Please enter a page name.',
+    'ERR_BLANK_PAGE_NAME' => 'Proszę wprowadź nazwę strony.',
     /* End MySugar Framework strings */
 
     'LBL_NO_IMAGE' => 'Brak zdjęcia',
