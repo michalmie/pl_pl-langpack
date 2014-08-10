@@ -36,19 +36,19 @@ $app_strings['LBL_SUBPANEL_FILTER_LABEL'] = 'Filter';
  */
 
 $app_list_strings['call_reschedule_dom'][''] = '';
-$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Out of Office';
-$app_list_strings['call_reschedule_dom']['In a Meeting'] = 'In a Meeting';
+$app_list_strings['call_reschedule_dom']['Out of Office'] = 'Poza biurem';
+$app_list_strings['call_reschedule_dom']['In a Meeting'] = 'W trakcie spotkania';
 
-$app_strings['LBL_RESCHEDULE_LABEL'] = 'Reschedule';
-$app_strings['LBL_RESCHEDULE_TITLE'] = 'Please enter the reschedule information';
-$app_strings['LBL_RESCHEDULE_DATE'] = 'Date:';
-$app_strings['LBL_RESCHEDULE_REASON'] = 'Reason:';
-$app_strings['LBL_RESCHEDULE_ERROR1'] = 'Please select a valid date';
-$app_strings['LBL_RESCHEDULE_ERROR2'] = 'Please select a reason';
+$app_strings['LBL_RESCHEDULE_LABEL'] = 'Zmień termin';
+$app_strings['LBL_RESCHEDULE_TITLE'] = 'Podaj informacje dotyczące zmiany terminu';
+$app_strings['LBL_RESCHEDULE_DATE'] = 'Data:';
+$app_strings['LBL_RESCHEDULE_REASON'] = 'Przyczyna:';
+$app_strings['LBL_RESCHEDULE_ERROR1'] = 'Wybierz prawidłową datę';
+$app_strings['LBL_RESCHEDULE_ERROR2'] = 'Wskaż powód';
 
-$app_strings['LBL_RESCHEDULE_PANEL'] = 'Reschedule';
-$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Call attempt history';
-$app_strings['LBL_RESCHEDULE_COUNT'] = 'Call Attempts';
+$app_strings['LBL_RESCHEDULE_PANEL'] = 'Zmień termin';
+$app_strings['LBL_RESCHEDULE_HISTORY'] = 'Historia prób połączeń';
+$app_strings['LBL_RESCHEDULE_COUNT'] = 'Próby połączeń';
 
 
 
