@@ -943,7 +943,7 @@ $mod_strings = array (
     'WARN_UPGRADE2'=>' using the upgrade in the <a href="index.php?module=Administration&action=Upgrade">administration panel</a>',
     'WARN_VALIDATION_EXPIRED'=> "Notice: Your validation key expires in ",
     'WARN_VALIDATION_EXPIRED2' =>" day(s). Please update information in the <a href='index.php?action=LicenseSettings&module=Administration'>'\"License Management\"</a> page in the Admin area.",
-    'WARN_NO_SMTP_SERVER_AVAILABLE_ERROR' =>"Note: To send record assignment notifications, an SMTP server must be configured in <a href='index.php?module=EmailMan&action=config'>Email Settings</a>.",
+    'WARN_NO_SMTP_SERVER_AVAILABLE_ERROR' =>"Informacja: Do wysyłania powiadomień o przypisaniach, konieczna jest konfiguracja serwera SMTP <a href='index.php?module=EmailMan&action=config'>Ustawienia email</a>.",
 	'LBL_MODULEBUILDER'=>'Module Builder',
 	'LBL_MODULEBUILDER_DESC'=>'Build new modules to expand the functionality of Sugar',
 	'LBL_SUGARPORTAL'=>'Sugar Portal',
