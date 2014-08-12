@@ -117,7 +117,7 @@ $mod_strings = array (
 'LBL_ED_WELCOME'=>'<h2>Drop Down Editor</h2><br><b>You can either edit an existing drop down or create a new drop down.',
 'LBL_DROPDOWN_NAME' => 'Dropdown Name:',
 'LBL_DROPDOWN_LANGUAGE' => 'Dropdown Language:',
-'LBL_TABGROUP_LANGUAGE' => 'Language:',
+'LBL_TABGROUP_LANGUAGE' => 'Język:',
 
 //EDIT CUSTOM FIELDS
 'LBL_EC_WELCOME'=>'<h2>Custom Field Editor</h2><br><b>You can either view and edit an existing custom field, create a new custom field or clean the custom field cache.',

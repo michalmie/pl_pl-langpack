@@ -426,7 +426,7 @@ $mod_strings = array(
 'LBL_TABDEF_COLLAPSE' => 'Collapse',
 'LBL_TABDEF_COLLAPSE_HELP' => 'Select to make the default state of this panel collapsed.',
 'LBL_DROPDOWN_TITLE_NAME' => 'Name',
-'LBL_DROPDOWN_LANGUAGE' => 'Language',
+'LBL_DROPDOWN_LANGUAGE' => 'Język',
 'LBL_DROPDOWN_ITEMS' => 'List Items',
 'LBL_DROPDOWN_ITEM_NAME' => 'Item Name',
 'LBL_DROPDOWN_ITEM_LABEL' => 'Display Label',
@@ -488,7 +488,7 @@ $mod_strings = array(
 'LBL_DATA_TYPE'=>'Type',
 'LBL_HCUSTOM'=>'CUSTOM',
 'LBL_HDEFAULT'=>'DEFAULT',
-'LBL_LANGUAGE'=>'Language:',
+'LBL_LANGUAGE'=>'Język:',
 'LBL_CUSTOM_FIELDS' => '* field created in Studio',
 
 //SECTION
