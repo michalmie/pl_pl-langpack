@@ -47,10 +47,10 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
 
 $mod_strings = array (
-	'LBL_ADD_ANOTHER_FILE'		=> 'Add Another File',
+	'LBL_ADD_ANOTHER_FILE'		=> 'Dodaj kolejny plik',
 	'LBL_ADD_DOCUMENT'			=> 'Add a Sugar Document',
-	'LBL_ADD_FILE'				=> 'Add a file',
-	'LBL_ATTACHMENTS'			=> 'Attachments',
+	'LBL_ADD_FILE'				=> 'Dodaj plik',
+	'LBL_ATTACHMENTS'			=> 'Załączniki',
 	'LBL_BODY'					=> 'Body:',
 	'LBL_CLOSE'					=> 'Close:',
 	'LBL_COLON'					=> ':',
@@ -104,7 +104,7 @@ $mod_strings = array (
 	'LBL_LIST_BASE_MODULE'		=> 'Base Module:',
     'LBL_TEXT_ONLY'             => 'Text Only',
     'LBL_SEND_AS_TEXT'          => 'Send Text Only',
-    'LBL_ACCOUNT'               => 'Account',
+    'LBL_ACCOUNT'               => 'Konto',
     'LBL_BASE_MODULE'=>'Base Module',
     'LBL_FROM_NAME'=>'From Name',
     'LBL_PLAIN_TEXT'=>'Plain Text',

@@ -152,40 +152,40 @@ $mod_strings = array (
 
 
 
-$app_strings['LBL_MAP'] = 'Map';
-$app_strings['LBL_MAPS'] = 'Maps';
+$app_strings['LBL_MAP'] = 'Mapa';
+$app_strings['LBL_MAPS'] = 'Mapy';
 
-$app_strings['LBL_JJWG_MAPS_LNG'] = 'Longitude';
-$app_strings['LBL_JJWG_MAPS_LAT'] = 'Latitude';
+$app_strings['LBL_JJWG_MAPS_LNG'] = 'Długość';
+$app_strings['LBL_JJWG_MAPS_LAT'] = 'Szerokość';
 $app_strings['LBL_JJWG_MAPS_GEOCODE_STATUS'] = 'Geocode Status';
-$app_strings['LBL_JJWG_MAPS_ADDRESS'] = 'Address';
+$app_strings['LBL_JJWG_MAPS_ADDRESS'] = 'Adres';
 $app_strings['LBL_BUG_FIX'] = 'Bug Fix';
 
-$app_list_strings['moduleList']['jjwg_Maps'] = 'Maps';
-$app_list_strings['moduleList']['jjwg_Markers'] = 'Map Markers';
-$app_list_strings['moduleList']['jjwg_Areas'] = 'Map Areas';
+$app_list_strings['moduleList']['jjwg_Maps'] = 'Mapy';
+$app_list_strings['moduleList']['jjwg_Markers'] = 'Znaczniki na mapie';
+$app_list_strings['moduleList']['jjwg_Areas'] = 'Obszary mapy';
 $app_list_strings['moduleList']['jjwg_Address_Cache'] = 'Map Address Cache';
 
-$app_list_strings['map_unit_type_list']['mi'] = 'Miles';
-$app_list_strings['map_unit_type_list']['km'] = 'Kilometers';
+$app_list_strings['map_unit_type_list']['mi'] = 'Mile';
+$app_list_strings['map_unit_type_list']['km'] = 'Kilometry';
 
-$app_list_strings['map_module_type_list']['Accounts'] = 'Accounts';
-$app_list_strings['map_module_type_list']['Contacts'] = 'Contacts';
-$app_list_strings['map_module_type_list']['Cases'] = 'Cases';
-$app_list_strings['map_module_type_list']['Leads'] = 'Leads';
-$app_list_strings['map_module_type_list']['Meetings'] = 'Meetings';
-$app_list_strings['map_module_type_list']['Opportunities'] = 'Opportunities';
-$app_list_strings['map_module_type_list']['Project'] = 'Projects';
-$app_list_strings['map_module_type_list']['Prospects'] = 'Targets';
+$app_list_strings['map_module_type_list']['Accounts'] = 'Konta';
+$app_list_strings['map_module_type_list']['Contacts'] = 'Kontakty';
+$app_list_strings['map_module_type_list']['Cases'] = 'Zgłoszenia serwisowe';
+$app_list_strings['map_module_type_list']['Leads'] = 'Potencjalni klienci';
+$app_list_strings['map_module_type_list']['Meetings'] = 'Spotkania';
+$app_list_strings['map_module_type_list']['Opportunities'] = 'Szanse sprzedaży';
+$app_list_strings['map_module_type_list']['Project'] = 'Projekty';
+$app_list_strings['map_module_type_list']['Prospects'] = 'Cele sprzedażowe';
 
-$app_list_strings['map_relate_type_list']['Accounts'] = 'Account';
-$app_list_strings['map_relate_type_list']['Contacts'] = 'Contact';
-$app_list_strings['map_relate_type_list']['Cases'] = 'Case';
-$app_list_strings['map_relate_type_list']['Leads'] = 'Lead';
-$app_list_strings['map_relate_type_list']['Meetings'] = 'Meeting';
-$app_list_strings['map_relate_type_list']['Opportunities'] = 'Opportunity';
-$app_list_strings['map_relate_type_list']['Project'] = 'Project';
-$app_list_strings['map_relate_type_list']['Prospects'] = 'Target';
+$app_list_strings['map_relate_type_list']['Accounts'] = 'Konto';
+$app_list_strings['map_relate_type_list']['Contacts'] = 'Kontakt';
+$app_list_strings['map_relate_type_list']['Cases'] = 'Zgłoszenie serwisowe';
+$app_list_strings['map_relate_type_list']['Leads'] = 'Potencjalny klient';
+$app_list_strings['map_relate_type_list']['Meetings'] = 'Spotkanie';
+$app_list_strings['map_relate_type_list']['Opportunities'] = 'Szansa sprzedaży';
+$app_list_strings['map_relate_type_list']['Project'] = 'Projekt';
+$app_list_strings['map_relate_type_list']['Prospects'] = 'Cel sprzedażowy';
 
 $app_list_strings['marker_image_list']['accident'] = 'Accident';
 $app_list_strings['marker_image_list']['administration'] = 'Administration';
@@ -478,8 +478,8 @@ $app_list_strings['marker_image_list']['zoo'] = 'Zoo';
  ********************************************************************************/
 
 
-$app_list_strings['moduleList']['FP_events'] = 'Events';
-$app_list_strings['moduleList']['FP_Event_Locations'] = 'Locations';
+$app_list_strings['moduleList']['FP_events'] = 'Wydarzenia';
+$app_list_strings['moduleList']['FP_Event_Locations'] = 'Lokalizacje';
 $app_list_strings['invite_template_list'][''] = '';
 
 $app_list_strings['fp_event_invite_status_dom']['Invited'] = 'Invited';
@@ -497,40 +497,40 @@ $app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Select All';
 $app_strings['LBL_LISTVIEW_NONE'] = 'Deselect All';
 
 
-$app_strings['LBL_MAP'] = 'Map';
-$app_strings['LBL_MAPS'] = 'Maps';
+$app_strings['LBL_MAP'] = 'Mapa';
+$app_strings['LBL_MAPS'] = 'Mapy';
 
-$app_strings['LBL_JJWG_MAPS_LNG'] = 'Longitude';
-$app_strings['LBL_JJWG_MAPS_LAT'] = 'Latitude';
+$app_strings['LBL_JJWG_MAPS_LNG'] = 'Długość';
+$app_strings['LBL_JJWG_MAPS_LAT'] = 'Szerokość';
 $app_strings['LBL_JJWG_MAPS_GEOCODE_STATUS'] = 'Geocode Status';
-$app_strings['LBL_JJWG_MAPS_ADDRESS'] = 'Address';
+$app_strings['LBL_JJWG_MAPS_ADDRESS'] = 'Adres';
 $app_strings['LBL_BUG_FIX'] = 'Bug Fix';
 
-$app_list_strings['moduleList']['jjwg_Maps'] = 'Maps';
-$app_list_strings['moduleList']['jjwg_Markers'] = 'Map Markers';
-$app_list_strings['moduleList']['jjwg_Areas'] = 'Map Areas';
+$app_list_strings['moduleList']['jjwg_Maps'] = 'Mapy';
+$app_list_strings['moduleList']['jjwg_Markers'] = 'Znaczniki na mapie';
+$app_list_strings['moduleList']['jjwg_Areas'] = 'Obszary mapy';
 $app_list_strings['moduleList']['jjwg_Address_Cache'] = 'Map Address Cache';
 
-$app_list_strings['map_unit_type_list']['mi'] = 'Miles';
-$app_list_strings['map_unit_type_list']['km'] = 'Kilometers';
+$app_list_strings['map_unit_type_list']['mi'] = 'Mile';
+$app_list_strings['map_unit_type_list']['km'] = 'Kilometry';
 
-$app_list_strings['map_module_type_list']['Accounts'] = 'Accounts';
-$app_list_strings['map_module_type_list']['Contacts'] = 'Contacts';
-$app_list_strings['map_module_type_list']['Cases'] = 'Cases';
-$app_list_strings['map_module_type_list']['Leads'] = 'Leads';
-$app_list_strings['map_module_type_list']['Meetings'] = 'Meetings';
-$app_list_strings['map_module_type_list']['Opportunities'] = 'Opportunities';
-$app_list_strings['map_module_type_list']['Project'] = 'Projects';
-$app_list_strings['map_module_type_list']['Prospects'] = 'Targets';
+$app_list_strings['map_module_type_list']['Accounts'] = 'Konta';
+$app_list_strings['map_module_type_list']['Contacts'] = 'Kontakty';
+$app_list_strings['map_module_type_list']['Cases'] = 'Zgłoszenia serwisowe';
+$app_list_strings['map_module_type_list']['Leads'] = 'Potencjalni klienci';
+$app_list_strings['map_module_type_list']['Meetings'] = 'Spotkania';
+$app_list_strings['map_module_type_list']['Opportunities'] = 'Szanse sprzedaży';
+$app_list_strings['map_module_type_list']['Project'] = 'Projekty';
+$app_list_strings['map_module_type_list']['Prospects'] = 'Cele sprzedażowe';
 
-$app_list_strings['map_relate_type_list']['Accounts'] = 'Account';
-$app_list_strings['map_relate_type_list']['Contacts'] = 'Contact';
-$app_list_strings['map_relate_type_list']['Cases'] = 'Case';
-$app_list_strings['map_relate_type_list']['Leads'] = 'Lead';
-$app_list_strings['map_relate_type_list']['Meetings'] = 'Meeting';
-$app_list_strings['map_relate_type_list']['Opportunities'] = 'Opportunity';
-$app_list_strings['map_relate_type_list']['Project'] = 'Project';
-$app_list_strings['map_relate_type_list']['Prospects'] = 'Target';
+$app_list_strings['map_relate_type_list']['Accounts'] = 'Konto';
+$app_list_strings['map_relate_type_list']['Contacts'] = 'Kontakt';
+$app_list_strings['map_relate_type_list']['Cases'] = 'Zgłoszenie serwisowe';
+$app_list_strings['map_relate_type_list']['Leads'] = 'Potencjalny klient';
+$app_list_strings['map_relate_type_list']['Meetings'] = 'Spotkanie';
+$app_list_strings['map_relate_type_list']['Opportunities'] = 'Szansa sprzedaży';
+$app_list_strings['map_relate_type_list']['Project'] = 'Projekt';
+$app_list_strings['map_relate_type_list']['Prospects'] = 'Cel sprzedażowy';
 
 $app_list_strings['marker_image_list']['accident'] = 'Accident';
 $app_list_strings['marker_image_list']['administration'] = 'Administration';
@@ -785,10 +785,10 @@ $app_list_strings['marker_image_list']['zoo'] = 'Zoo';
 
 
 
-$app_list_strings["moduleList"]["SecurityGroups"] = 'Security Groups Management';
+$app_list_strings["moduleList"]["SecurityGroups"] = 'Zarządzanie grupami zabezpieczeń';
 $app_strings['LBL_LOGIN_AS'] = "Login as ";
 $app_strings['LBL_LOGOUT_AS'] = "Logout as ";
-$app_strings['LBL_SECURITYGROUP'] = 'Security Group';
+$app_strings['LBL_SECURITYGROUP'] = 'Grupa zabezpieczeń';
 
 
  
@@ -817,27 +817,27 @@ $app_strings['LBL_SECURITYGROUP'] = 'Security Group';
  * @author Salesagility Ltd <support@salesagility.com>
  */
 
-$app_list_strings['moduleList']['AOS_Contracts'] = 'Contracts';
-$app_list_strings['moduleList']['AOS_Invoices'] = 'Invoices';
-$app_list_strings['moduleList']['AOS_PDF_Templates'] = 'PDF Templates';
-$app_list_strings['moduleList']['AOS_Product_Categories'] = 'Product Categories';
-$app_list_strings['moduleList']['AOS_Products'] = 'Products';
+$app_list_strings['moduleList']['AOS_Contracts'] = 'Kontrakty';
+$app_list_strings['moduleList']['AOS_Invoices'] = 'Faktury';
+$app_list_strings['moduleList']['AOS_PDF_Templates'] = 'Szablony PDF';
+$app_list_strings['moduleList']['AOS_Product_Categories'] = 'Kategorie produktów';
+$app_list_strings['moduleList']['AOS_Products'] = 'Produkty';
 $app_list_strings['moduleList']['AOS_Products_Quotes'] = 'Line Items';
 $app_list_strings['moduleList']['AOS_Line_Item_Groups'] = 'Line Item Groups';
 $app_list_strings['moduleList']['AOS_Quotes'] = 'Quotes';
 $app_list_strings['aos_quotes_type_dom'][''] = '';
-$app_list_strings['aos_quotes_type_dom']['Analyst'] = 'Analyst';
-$app_list_strings['aos_quotes_type_dom']['Competitor'] = 'Competitor';
-$app_list_strings['aos_quotes_type_dom']['Customer'] = 'Customer';
+$app_list_strings['aos_quotes_type_dom']['Analyst'] = 'Analityk';
+$app_list_strings['aos_quotes_type_dom']['Competitor'] = 'Konkurencja';
+$app_list_strings['aos_quotes_type_dom']['Customer'] = 'Klient';
 $app_list_strings['aos_quotes_type_dom']['Integrator'] = 'Integrator';
-$app_list_strings['aos_quotes_type_dom']['Investor'] = 'Investor';
+$app_list_strings['aos_quotes_type_dom']['Investor'] = 'Inwestor';
 $app_list_strings['aos_quotes_type_dom']['Partner'] = 'Partner';
-$app_list_strings['aos_quotes_type_dom']['Press'] = 'Press';
+$app_list_strings['aos_quotes_type_dom']['Press'] = 'Media';
 $app_list_strings['aos_quotes_type_dom']['Prospect'] = 'Prospect';
 $app_list_strings['aos_quotes_type_dom']['Reseller'] = 'Reseller';
-$app_list_strings['aos_quotes_type_dom']['Other'] = 'Other';
+$app_list_strings['aos_quotes_type_dom']['Other'] = 'Inny';
 $app_list_strings['template_ddown_c_list'][''] = '';
-$app_list_strings['quote_stage_dom']['Draft'] = 'Draft';
+$app_list_strings['quote_stage_dom']['Draft'] = 'Szkic';
 $app_list_strings['quote_stage_dom']['Negotiation'] = 'Negotiation';
 $app_list_strings['quote_stage_dom']['Delivered'] = 'Delivered';
 $app_list_strings['quote_stage_dom']['On Hold'] = 'On Hold';
@@ -859,19 +859,19 @@ $app_list_strings['vat_list']['20.0'] = '20%';
 $app_list_strings['discount_list']['Percentage'] = 'Pct';
 $app_list_strings['discount_list']['Amount'] = 'Amt';
 $app_list_strings['aos_invoices_type_dom'][''] = '';
-$app_list_strings['aos_invoices_type_dom']['Analyst'] = 'Analyst';
-$app_list_strings['aos_invoices_type_dom']['Competitor'] = 'Competitor';
-$app_list_strings['aos_invoices_type_dom']['Customer'] = 'Customer';
+$app_list_strings['aos_invoices_type_dom']['Analyst'] = 'Analityk';
+$app_list_strings['aos_invoices_type_dom']['Competitor'] = 'Konkurencja';
+$app_list_strings['aos_invoices_type_dom']['Customer'] = 'Klient';
 $app_list_strings['aos_invoices_type_dom']['Integrator'] = 'Integrator';
-$app_list_strings['aos_invoices_type_dom']['Investor'] = 'Investor';
+$app_list_strings['aos_invoices_type_dom']['Investor'] = 'Inwestor';
 $app_list_strings['aos_invoices_type_dom']['Partner'] = 'Partner';
-$app_list_strings['aos_invoices_type_dom']['Press'] = 'Press';
+$app_list_strings['aos_invoices_type_dom']['Press'] = 'Media';
 $app_list_strings['aos_invoices_type_dom']['Prospect'] = 'Prospect';
 $app_list_strings['aos_invoices_type_dom']['Reseller'] = 'Reseller';
-$app_list_strings['aos_invoices_type_dom']['Other'] = 'Other';
-$app_list_strings['invoice_status_dom']['Paid'] = 'Paid';
-$app_list_strings['invoice_status_dom']['Unpaid'] = 'Unpaid';
-$app_list_strings['invoice_status_dom']['Cancelled'] = 'Cancelled';
+$app_list_strings['aos_invoices_type_dom']['Other'] = 'Inny';
+$app_list_strings['invoice_status_dom']['Paid'] = 'Zapłacono';
+$app_list_strings['invoice_status_dom']['Unpaid'] = 'Niezapłacono';
+$app_list_strings['invoice_status_dom']['Cancelled'] = 'Anulowano';
 $app_list_strings['invoice_status_dom'][''] = '';
 $app_list_strings['quote_invoice_status_dom']['Not Invoiced'] = 'Not Invoiced';
 $app_list_strings['quote_invoice_status_dom']['Invoiced'] = 'Invoiced';
@@ -883,21 +883,21 @@ $app_list_strings['product_category_dom'][''] = '';
 $app_list_strings['product_type_dom']['Good'] = 'Good';
 $app_list_strings['product_type_dom']['Service'] = 'Service';
 $app_list_strings['product_quote_parent_type_dom']['AOS_Quotes'] = 'Quotes';
-$app_list_strings['product_quote_parent_type_dom']['AOS_Invoices'] = 'Invoices';
-$app_list_strings['product_quote_parent_type_dom']['AOS_Contracts'] = 'Contracts';
+$app_list_strings['product_quote_parent_type_dom']['AOS_Invoices'] = 'Faktury';
+$app_list_strings['product_quote_parent_type_dom']['AOS_Contracts'] = 'Kontrakty';
 $app_list_strings['pdf_template_type_dom']['AOS_Quotes'] = 'Quotes';
-$app_list_strings['pdf_template_type_dom']['AOS_Invoices'] = 'Invoices';
-$app_list_strings['pdf_template_type_dom']['AOS_Contracts'] = 'Contracts';
-$app_list_strings['pdf_template_type_dom']['Accounts'] = 'Accounts';
-$app_list_strings['pdf_template_type_dom']['Contacts'] = 'Contacts';
-$app_list_strings['pdf_template_type_dom']['Leads'] = 'Leads';
+$app_list_strings['pdf_template_type_dom']['AOS_Invoices'] = 'Faktury';
+$app_list_strings['pdf_template_type_dom']['AOS_Contracts'] = 'Kontrakty';
+$app_list_strings['pdf_template_type_dom']['Accounts'] = 'Konta';
+$app_list_strings['pdf_template_type_dom']['Contacts'] = 'Kontakty';
+$app_list_strings['pdf_template_type_dom']['Leads'] = 'Potencjalni klienci';
 $app_list_strings['pdf_template_sample_dom'][''] = '';
 $app_list_strings['contract_status_list']['Not Started'] = 'Not Started';
 $app_list_strings['contract_status_list']['In Progress'] = 'In Progress';
 $app_list_strings['contract_status_list']['Signed'] = 'Signed';
 $app_list_strings['contract_type_list']['Type'] = 'Type';
 $app_strings['LBL_GENERATE_LETTER'] = 'Generate Letter';
-$app_strings['LBL_SELECT_TEMPLATE'] = 'Please Select a Template';
+$app_strings['LBL_SELECT_TEMPLATE'] = 'Wybierz szablon';
 $app_strings['LBL_NO_TEMPLATE'] = 'ERROR\nNo templates found.\nPlease go to the PDF templates module and create one';
 
 
@@ -1072,28 +1072,28 @@ $app_strings['LBL_PANEL_SOCIAL_FEED'] = 'Social Feed Details';
  * @author Salesagility Ltd <info@salesagility.com>
  */
 
-$app_strings['LBL_QUICK_ACCOUNT'] = 'Create Account';
-$app_strings['LBL_QUICK_CONTACT'] = 'Create Contact';
-$app_strings['LBL_QUICK_OPPORTUNITY'] = 'Create Opportunity';
-$app_strings['LBL_QUICK_LEAD'] = 'Create Lead';
-$app_strings['LBL_QUICK_DOCUMENT'] = 'Create Document';
+$app_strings['LBL_QUICK_ACCOUNT'] = 'Utwórz konto';
+$app_strings['LBL_QUICK_CONTACT'] = 'Utwórz kontakt';
+$app_strings['LBL_QUICK_OPPORTUNITY'] = 'Utwórz szansę sprzedaży';
+$app_strings['LBL_QUICK_LEAD'] = 'Utwórz potencjalnego klienta';
+$app_strings['LBL_QUICK_DOCUMENT'] = 'Utwórz dokument';
 $app_strings['LBL_QUICK_CALL'] = 'Log Call';
-$app_strings['LBL_QUICK_TASK'] = 'Create Task';
+$app_strings['LBL_QUICK_TASK'] = 'Utwórz zadanie';
 $app_strings['LBL_COLLECTION_TYPE'] = 'Type';
 
-$app_strings['LBL_ADD_TAB'] = 'Add Tab';
-$app_strings['LBL_SUITE_DASHBOARD'] = 'Suite Dashboard';
-$app_strings['LBL_ENTER_DASHBOARD_NAME'] = 'Enter Dashboard Name:';
-$app_strings['LBL_NUMBER_OF_COLUMNS'] = 'Number of Columns:';
-$app_strings['LBL_DELETE_DASHBOARD1'] = 'Are you sure you want to delete the';
-$app_strings['LBL_DELETE_DASHBOARD2'] = 'dashboard?';
+$app_strings['LBL_ADD_TAB'] = 'Dodaj zakładkę';
+$app_strings['LBL_SUITE_DASHBOARD'] = 'Kokpit';
+$app_strings['LBL_ENTER_DASHBOARD_NAME'] = 'Wprowadź nazwę kokpitu:';
+$app_strings['LBL_NUMBER_OF_COLUMNS'] = 'Liczba kolumn:';
+$app_strings['LBL_DELETE_DASHBOARD1'] = 'Czy na pewno chcesz usunąć';
+$app_strings['LBL_DELETE_DASHBOARD2'] = 'kokpit?';
 $app_strings['LBL_ADD_DASHBOARD_PAGE'] = 'Add a Dashboard Page';
 $app_strings['LBL_DELETE_DASHBOARD_PAGE'] = 'Remove Current Dashboard Page';
 $app_strings['LBL_RENAME_DASHBOARD_PAGE'] = 'Rename Dashboard Page';
 
-$app_strings['LBL_DISCOVER_SUITECRM'] = 'Discover SuiteCRM';
+$app_strings['LBL_DISCOVER_SUITECRM'] = 'Odkryj SuiteCRM';
 
-$app_list_strings['collection_temp_list'] = array ( 'Tasks' => 'Tasks', 'Meetings' => 'Meetings', 'Calls' => 'Calls', 'Notes' => 'Notes', 'Emails' => 'Emails' );
+$app_list_strings['collection_temp_list'] = array ( 'Tasks' => 'Zadania', 'Meetings' => 'Spotkania', 'Calls' => 'Telefony', 'Notes' => 'Notatki', 'Emails' => 'Wiadomości email' );
 
 /**
  *
@@ -1134,12 +1134,12 @@ $app_list_strings['case_state_default_key'] = 'Open';
 $app_list_strings['case_status_default_key'] = 'Open_New';
 $app_list_strings['case_status_dom'] =
   array (
-      'Open_New' => 'New',
-      'Open_Assigned' => 'Assigned',
-      'Closed_Closed' => 'Closed',
+      'Open_New' => 'Nowe',
+      'Open_Assigned' => 'Przypisane',
+      'Closed_Closed' => 'Zamknięte',
       'Open_Pending Input' => 'Pending Input',
-      'Closed_Rejected' => 'Rejected',
-      'Closed_Duplicate' => 'Duplicate',
+      'Closed_Rejected' => 'Odrzucone',
+      'Closed_Duplicate' => 'Duplikat',
   );
 $app_list_strings['contact_portal_user_type_dom'] =
     array (

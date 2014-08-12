@@ -38,20 +38,20 @@
  ********************************************************************************/
 
 
-$app_list_strings['moduleList']['FP_events'] = 'Events';
-$app_list_strings['moduleList']['FP_Event_Locations'] = 'Locations';
+$app_list_strings['moduleList']['FP_events'] = 'Wydarzenia';
+$app_list_strings['moduleList']['FP_Event_Locations'] = 'Lokalizacje';
 $app_list_strings['invite_template_list'][''] = '';
 
 $app_list_strings['fp_event_invite_status_dom']['Invited'] = 'Invited';
 $app_list_strings['fp_event_invite_status_dom']['Not Invited'] = 'Not Invited';
 $app_list_strings['fp_event_invite_status_dom']['Attended'] = 'Attended';
 $app_list_strings['fp_event_invite_status_dom']['Not Attended'] = 'Not Attended';
-$app_list_strings['fp_event_status_dom']['Accepted'] = 'Accepted';
-$app_list_strings['fp_event_status_dom']['Declined'] = 'Declined';
-$app_list_strings['fp_event_status_dom']['No Response'] = 'No Response';
+$app_list_strings['fp_event_status_dom']['Accepted'] = 'Zaakceptowano';
+$app_list_strings['fp_event_status_dom']['Declined'] = 'Odrzucono';
+$app_list_strings['fp_event_status_dom']['No Response'] = 'Brak odpowiedzi';
 
-$app_strings['LBL_STATUS_EVENT'] = 'Invite Status';
-$app_strings['LBL_ACCEPT_STATUS'] = 'Accept Status';
-$app_strings['LBL_LISTVIEW_OPTION_CURRENT'] = 'Select This Page';
-$app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Select All';
-$app_strings['LBL_LISTVIEW_NONE'] = 'Deselect All';
+$app_strings['LBL_STATUS_EVENT'] = 'Status zaproszenia';
+$app_strings['LBL_ACCEPT_STATUS'] = 'Status akceptacji';
+$app_strings['LBL_LISTVIEW_OPTION_CURRENT'] = 'Zaznacz stronę';
+$app_strings['LBL_LISTVIEW_OPTION_ENTIRE'] = 'Zaznacz wszystko';
+$app_strings['LBL_LISTVIEW_NONE'] = 'Odznacz wszystko';
