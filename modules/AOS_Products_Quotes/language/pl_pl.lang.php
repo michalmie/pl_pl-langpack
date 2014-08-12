@@ -67,7 +67,7 @@ $mod_strings = array (
   'LBL_PRODUCT_NOTE' => 'Note',
   'Quote' => '',
   'LBL_AOS_PRODUCTS_QUOTES_SUBPANEL_TITLE' => 'Products Quotes',
-  'LBL_FLEX_RELATE' => 'Related to',
+  'LBL_FLEX_RELATE' => 'Powiązane z',
   'LBL_PRODUCT' => 'Product',
   
   'LBL_SERVICE_MODULE_NAME' => 'Services',

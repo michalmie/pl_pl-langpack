@@ -42,13 +42,13 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $mod_strings = array (
-  'LBL_MODULE_NAME' => 'History',
-  'LBL_MODULE_TITLE' => 'History: Home',
+  'LBL_MODULE_NAME' => 'Historia',
+  'LBL_MODULE_TITLE' => 'Historia: Strona główna',
   'LBL_SEARCH_FORM_TITLE' => 'History Search',
   'LBL_LIST_FORM_TITLE' => 'History',
   'LBL_LIST_SUBJECT' => 'Subject',
   'LBL_LIST_CONTACT' => 'Contact',
-  'LBL_LIST_RELATED_TO' => 'Related to',
+  'LBL_LIST_RELATED_TO' => 'Powiązane z',
   'LBL_LIST_DATE' => 'Date',
   'LBL_LIST_TIME' => 'Start Time',
   'LBL_LIST_CLOSE' => 'Close',

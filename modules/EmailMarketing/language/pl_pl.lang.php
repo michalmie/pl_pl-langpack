@@ -56,7 +56,7 @@ $mod_strings = array (
   'LBL_NAME' => 'Name: ',
   'LBL_LIST_NAME' => 'Name',
   'LBL_LIST_FROM_ADDR' => 'From Email',
-  'LBL_LIST_DATE_START' => 'Start Date',
+  'LBL_LIST_DATE_START' => 'Data rozpoczęcia',
   'LBL_LIST_TEMPLATE_NAME' => 'Email Template',
   'LBL_LIST_STATUS' => 'Status',
   'LBL_STATUS'	=>	'Status',
@@ -71,9 +71,9 @@ $mod_strings = array (
 
   'LBL_FROM_NAME' => 'From Name: ',
   'LBL_FROM_ADDR' => 'From Email Address: ',
-  'LBL_DATE_START' => 'Start Date',
-  'LBL_TIME_START' => 'Start Time',
-  'LBL_START_DATE_TIME' => 'Start Date & Time: ',
+  'LBL_DATE_START' => 'Data rozpoczęcia',
+  'LBL_TIME_START' => 'Czas rozpoczęcia',
+  'LBL_START_DATE_TIME' => 'Data i czas rozpoczęcia: ',
   'LBL_TEMPLATE' => 'Email Template: ',
 
   'LBL_MODIFIED_BY' => 'Modified by: ',

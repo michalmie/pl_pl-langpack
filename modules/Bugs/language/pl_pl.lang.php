@@ -95,9 +95,9 @@ $mod_strings = array (
   'LBL_MODIFIED_BY' => 'Last Modified by:',
   'LBL_DATE_LAST_MODIFIED' => 'Modify Date:',
 
-  'LBL_LIST_EMAIL_ADDRESS' => 'Email Address',
-  'LBL_LIST_CONTACT_NAME' => 'Contact Name',
-  'LBL_LIST_ACCOUNT_NAME' => 'Account Name',
+  'LBL_LIST_EMAIL_ADDRESS' => 'Adres email',
+  'LBL_LIST_CONTACT_NAME' => 'Nazwa kontaktu',
+  'LBL_LIST_ACCOUNT_NAME' => 'Nazwa konta',
   'LBL_LIST_PHONE' => 'Phone',
   'NTC_DELETE_CONFIRMATION' => 'Are you sure you want to remove this contact from this bug?',
 
