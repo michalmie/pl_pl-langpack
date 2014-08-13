@@ -1404,8 +1404,8 @@ $app_strings = array (
     'LBL_EMAIL_IMPORTING_EMAIL'             => 'Importing Email',
     'LBL_EMAIL_IMPORT_EMAIL'                => 'Import to Sugar',
     'LBL_EMAIL_IMPORT_SETTINGS'                => 'Import Settings',
-    'LBL_EMAIL_INVALID'                     => 'Invalid',
-    'LBL_EMAIL_LOADING'                     => 'Loading...',
+    'LBL_EMAIL_INVALID'                     => 'Nieprawidłowy',
+    'LBL_EMAIL_LOADING'                     => 'Wczytywanie...',
     'LBL_EMAIL_MARK'                        => 'Oznacz',
     'LBL_EMAIL_MARK_FLAGGED'                => 'As Flagged',
     'LBL_EMAIL_MARK_READ'                   => 'jako przeczytane',
@@ -1466,7 +1466,7 @@ $app_strings = array (
     'LBL_EMAIL_PAGE_AFTER'                  => 'of {0}',
     'LBL_EMAIL_PAGE_BEFORE'                 => 'Strona',
     'LBL_EMAIL_PERFORMING_TASK'             => 'Performing Task',
-    'LBL_EMAIL_PRIMARY'                     => 'Primary',
+    'LBL_EMAIL_PRIMARY'                     => 'Podstawowy',
     'LBL_EMAIL_PRINT'                       => 'Drukuj',
 
     'LBL_EMAIL_QC_BUGS'                     => 'Błąd',
@@ -2266,7 +2266,7 @@ $app_strings = array (
     'LBL_MODULE' => 'Moduł',
 
     //adding a label for address copy from left
-    'LBL_COPY_ADDRESS_FROM_LEFT' => 'Copy address from left:',
+    'LBL_COPY_ADDRESS_FROM_LEFT' => 'Kopiuj adres z lewej:',
     'LBL_SAVE_AND_CONTINUE' => 'Zapisz i kontynuuj',
 
     'LBL_SEARCH_HELP_TEXT' => '<p><br /><strong>Multiselect controls</strong></p><ul><li>Click on the values to select an attribute.</li><li>Ctrl-click&nbsp;to&nbsp;select multiple. Mac users use CMD-click.</li><li>To select all values between two attributes,&nbsp; click first value&nbsp;and then shift-click last value.</li></ul><p><strong>Advanced Search & Layout Options</strong><br><br>Using the <b>Saved Search & Layout</b> option, you can save a set of search parameters and/or a custom List View layout in order to quickly obtain the desired search results in the future. You can save an unlimited number of custom searches and layouts. All saved searches appear by name in the Saved Searches list, with the last loaded saved search appearing at the top of the list.<br><br>To customize the List View layout, use the Hide Columns and Display Columns boxes to select which fields to display in the search results. For example, you can view or hide details such as the record name, and assigned user, and assigned team in the search results. To add a column to List View, select the field from the Hide Columns list and use the left arrow to move it to the Display Columns list. To remove a column from List View, select it from the Display Columns list and use the right arrow to move it to the Hide Columns list.<br><br>If you save layout settings, you will be able to load them at any time to view the search results in the custom layout.<br><br>To save and update a search and/or layout:<ol><li>Enter a name for the search results in the <b>Save this search as</b> field and click <b>Save</b>.The name now displays in the Saved Searches list adjacent to the <b>Clear</b> button.</li><li>To view a saved search, select it from the Saved Searches list. The search results are displayed in the List View.</li><li>To update the properties of a saved search, select the saved search from the list, enter the new search criteria and/or layout options in the Advanced Search area, and click <b>Update</b> next to <b>Modify Current Search</b>.</li><li>To delete a saved search, select it in the Saved Searches list, click <b>Delete</b> next to <b>Modify Current Search</b>, and then click <b>OK</b> to confirm the deletion.</li></ol><p><strong>Tips</strong><br><br>By using the % as a wildcard operator you can make your search more broad.  For example instead of just searching for results that equal "Apples" you could change your search to "Apples%" which would match all results that start with the word Apples but could contain other characters as well.</p>' ,
@@ -2353,7 +2353,7 @@ $app_strings = array (
     'LBL_NO_FLASH_PLAYER' => 'You either have Abobe Flash turned off or are using an older version of the Adobe Flash Player. To get the latest version of the Flash Player, <a href="http://www.adobe.com/go/getflashplayer/">click here</a>.',
   //Collection Field
   'LBL_COLLECTION_NAME' => 'Nazwa',
-  'LBL_COLLECTION_PRIMARY' => 'Primary',
+  'LBL_COLLECTION_PRIMARY' => 'Podstawowy',
   'ERROR_MISSING_COLLECTION_SELECTION' => 'Empty required field',
     'LBL_COLLECTION_EXACT' => 'Exact',
 

@@ -50,8 +50,8 @@ $mod_strings = array (
 	//module
 	'LBL_MODULE_NAME' => 'Document Revision',
 
-	'LNK_NEW_DOCUMENT' => 'Create Document',
-	'LNK_DOCUMENT_LIST'=> 'View Documents',
+	'LNK_NEW_DOCUMENT' => 'Utwórz dokument',
+	'LNK_DOCUMENT_LIST'=> 'Wyświetl dokumenty',
 
 	//vardef labels
 	'LBL_REVISION_NAME' => 'Revision Number',
@@ -60,14 +60,14 @@ $mod_strings = array (
 	'LBL_REVISION' => 'Revision',
 	'LBL_DOCUMENT' => 'Related Document',
 	'LBL_LATEST_REVISION' => 'Latest Revision',
-	'LBL_CHANGE_LOG'=> 'Change Log',
+	'LBL_CHANGE_LOG'=> 'Historia zmian',
 	'LBL_ACTIVE_DATE'=> 'Publish Date',
 	'LBL_EXPIRATION_DATE' => 'Expiration Date',
 	'LBL_FILE_EXTENSION'  => 'File Extension',
 	'LBL_DET_CREATED_BY' => 'Created By:',
 	'LBL_DET_DATE_CREATED' => 'Date Created:',
 
-	'LBL_DOC_NAME' => 'Document Name:',
+	'LBL_DOC_NAME' => 'Nazwa dokumentu:',
 	'LBL_DOC_VERSION' => 'Revision:',
 
 	//document revisions.

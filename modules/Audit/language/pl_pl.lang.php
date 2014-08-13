@@ -42,12 +42,12 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $mod_strings = array (
-  'LBL_FIELD_NAME' => 'Field',
-  'LBL_OLD_NAME' => 'Old Value',
-  'LBL_NEW_VALUE' => 'New Value',
-  'LBL_CREATED_BY' => 'Changed By',
-  'LBL_LIST_DATE' => 'Change Date',
-  'LBL_AUDITED_FIELDS' => 'Fields audited in this module: ',
-  'LBL_NO_AUDITED_FIELDS_TEXT' => 'There are no fields audited in this module',
-  'LBL_CHANGE_LOG' => 'Change Log',
+  'LBL_FIELD_NAME' => 'Pole',
+  'LBL_OLD_NAME' => 'Poprzednia wartość',
+  'LBL_NEW_VALUE' => 'Nowa wartość',
+  'LBL_CREATED_BY' => 'Zmodyfikowane przez',
+  'LBL_LIST_DATE' => 'Data modyfikacji',
+  'LBL_AUDITED_FIELDS' => 'Audytowane pola w tym module: ',
+  'LBL_NO_AUDITED_FIELDS_TEXT' => 'Brak audytowanych pól w tym module',
+  'LBL_CHANGE_LOG' => 'Historia zmian',
 );
