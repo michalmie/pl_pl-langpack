@@ -67,7 +67,7 @@ $mod_strings = array (
   'LBL_CONFIRM_END' =>' selected record(s)?',
   
   'LBL_SECURITYGROUP_USER_FORM_TITLE' => 'SecurityGroup/User',
-  'LBL_USER_NAME' => 'User Name',
+  'LBL_USER_NAME' => 'Nazwa użytkownika',
   'LBL_SECURITYGROUP_NAME' => 'SecurityGroup Name',
   'LBL_LIST_USER_NONINHERITABLE' => 'Not Inheritable',
   'LBL_HOMEPAGE_TITLE' => 'Group Messages',

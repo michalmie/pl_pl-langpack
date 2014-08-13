@@ -127,7 +127,7 @@ $mod_strings = array (
   'NTC_NONE'=>'None',
   'LBL_ACCEPT_THIS'=>'Accept?',
   'LBL_DEFAULT_SUBPANEL_TITLE' => 'Open Activities',
-  'LBL_LIST_ASSIGNED_TO_NAME' => 'Assigned User',
+  'LBL_LIST_ASSIGNED_TO_NAME' => 'Przypisany użytkownik',
 
 	'LBL_ACCEPT' => 'Accept' /*for 508 compliance fix*/,
 );
