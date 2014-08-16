@@ -42,17 +42,17 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $mod_strings = array (
-	'LBL_MODULE_NAME' => 'Project',
-	'LBL_MODULE_TITLE' => 'Projects: Home',
-	'LBL_SEARCH_FORM_TITLE' => 'Project Search',
-    'LBL_LIST_FORM_TITLE' => 'Project List',
+	'LBL_MODULE_NAME' => 'Projekt',
+	'LBL_MODULE_TITLE' => 'Projekty: Strona główna',
+	'LBL_SEARCH_FORM_TITLE' => 'Wyszukiwanie projektów',
+    'LBL_LIST_FORM_TITLE' => 'Lista projektów',
     'LBL_HISTORY_TITLE' => 'History',
 
 	'LBL_ID' => 'Id:',
-	'LBL_DATE_ENTERED' => 'Date Created:',
-	'LBL_DATE_MODIFIED' => 'Date Modified:',
-	'LBL_ASSIGNED_USER_ID' => 'Assigned To:',
-    'LBL_ASSIGNED_USER_NAME' => 'Assigned to:',
+	'LBL_DATE_ENTERED' => 'Data utworzenia:',
+	'LBL_DATE_MODIFIED' => 'Data modyfikacji:',
+	'LBL_ASSIGNED_USER_ID' => 'Przypisane do:',
+    'LBL_ASSIGNED_USER_NAME' => 'Przypisane do:',
 	'LBL_MODIFIED_USER_ID' => 'Modified User Id:',
 	'LBL_CREATED_BY' => 'Created By:',
 	'LBL_TEAM_ID' => 'Team:',

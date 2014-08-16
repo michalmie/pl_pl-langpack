@@ -301,7 +301,7 @@ $mod_strings = array (
     'LBL_EMAILS_NO_PRIMARY_TEAM_SPECIFIED' =>'No Primary Team specified',
 
 	// advanced search
-	'LBL_ASSIGNED_TO'			=> 'Assigned To:',
+	'LBL_ASSIGNED_TO'			=> 'Przypisane do:',
 	'LBL_MEMBER_OF'				=> 'Parent',
 	'LBL_QUICK_CREATE'			=> 'Quick Create',
 	'LBL_STATUS'				=> 'Email Status:',
