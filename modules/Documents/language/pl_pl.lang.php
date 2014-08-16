@@ -110,9 +110,9 @@ $mod_strings = array (
 	'LBL_DET_RELATED_DOCUMENT_VERSION'=>"Related Document Revision:",
 	'LBL_DET_IS_TEMPLATE'=>'Template? :',
 	'LBL_DET_TEMPLATE_TYPE'=>'Document Type:',
-	'LBL_DOC_DESCRIPTION'=>'Description:',
-	'LBL_DOC_ACTIVE_DATE'=> 'Publish Date:',
-	'LBL_DOC_EXP_DATE'=> 'Expiration Date:',
+	'LBL_DOC_DESCRIPTION'=>'Opis:',
+	'LBL_DOC_ACTIVE_DATE'=> 'Data opublikowania:',
+	'LBL_DOC_EXP_DATE'=> 'Data wygaśnięcia:',
 
 	//document list view.
 	'LBL_LIST_FORM_TITLE' => 'Document List',
@@ -136,7 +136,7 @@ $mod_strings = array (
     'LBL_REVISIONS_SUBPANEL' => 'Revisions',
 
 	//document search form.
-	'LBL_SF_DOCUMENT' => 'Document Name:',
+	'LBL_SF_DOCUMENT' => 'Nazwa dokumentu:',
 	'LBL_SF_CATEGORY' => 'Category:',
 	'LBL_SF_SUBCATEGORY'=> 'Sub Category:',
 	'LBL_SF_ACTIVE_DATE' => 'Publish Date:',

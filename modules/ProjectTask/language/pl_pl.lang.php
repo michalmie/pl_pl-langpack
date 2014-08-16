@@ -73,7 +73,7 @@ $mod_strings = array (
 	'LBL_PARENT_ID' => 'Project:',
     'LBL_PARENT_TASK_ID' => 'Parent Task Id:',    
     'LBL_PERCENT_COMPLETE' => '% Complete:',
-	'LBL_PRIORITY' => 'Priority:',
+	'LBL_PRIORITY' => 'Priorytet:',
 	'LBL_DESCRIPTION' => 'Description:',
 	'LBL_ORDER_NUMBER' => 'Order:',
 	'LBL_TASK_NUMBER' => 'Task Number:',
@@ -97,7 +97,7 @@ $mod_strings = array (
 	'LBL_LIST_DATE_DUE' => 'Date Due',
 	'LBL_LIST_DATE_START' => 'Data rozpoczęcia',
     'LBL_LIST_DATE_FINISH' => 'Finish Date',    
-	'LBL_LIST_PRIORITY' => 'Priority',
+	'LBL_LIST_PRIORITY' => 'Priorytet',
 	'LBL_LIST_CLOSE' => 'Close',
 	'LBL_PROJECT_NAME' => 'Project Name',
 
