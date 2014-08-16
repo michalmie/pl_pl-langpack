@@ -52,7 +52,7 @@ $mod_strings = array (
 	'db_website' => 'LBL_LIST_WEBSITE',
 	'db_billing_address_city' => 'LBL_LIST_CITY',
 	// END DON'T CONVERT
-    'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Documents',
+    'LBL_DOCUMENTS_SUBPANEL_TITLE' => 'Dokumenty',
 	// Dashlet Categories
 	'LBL_CHARTS'    => 'Charts',
 	'LBL_DEFAULT' => 'Views',
