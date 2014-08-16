@@ -172,7 +172,7 @@ $mod_strings = array (
     'LBL_SEARCH_FORM_TITLE' => 'Wyszukiwanie kontaktów',
     'LBL_SELECT_CHECKED_BUTTON_LABEL' => 'Select Checked Contacts',
     'LBL_SELECT_CHECKED_BUTTON_TITLE' => 'Select Checked Contacts',
-    'LBL_STATE' => 'State:',
+    'LBL_STATE' => 'Województwo:',
     'LBL_SYNC_CONTACT' => 'Sync to Outlook&reg;:',
     'LBL_PROSPECT_LIST' => 'Prospect List',
     'LBL_TITLE' => 'Tytuł:',
@@ -214,7 +214,7 @@ $mod_strings = array (
 	'LBL_CAMPAIGNS'	=>	'Kampanie',
 	'LBL_CAMPAIGN_LIST_SUBPANEL_TITLE'=>'Kampanie',
 	'LBL_LIST_CITY' => 'Miasto',
-	'LBL_LIST_STATE' => 'State',
+	'LBL_LIST_STATE' => 'Województwo',
 	'LBL_HOMEPAGE_TITLE' => 'Moje kontakty',
     'LBL_OPPORTUNITIES' => 'Szanse sprzedaży',
 

@@ -39,20 +39,20 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
 
 $mod_strings = array (
-'LBL_ALLOW_ALL'=>'All',
-'LBL_ALLOW_NONE'=>'None',
-'LBL_ALLOW_OWNER'=>'Owner',
-'LBL_ROLE'=>'Role',
-'LBL_NAME'=>'Name',
-'LBL_DESCRIPTION'=>'Description',
+'LBL_ALLOW_ALL'=>'Wszystkie',
+'LBL_ALLOW_NONE'=>'Brak',
+'LBL_ALLOW_OWNER'=>'Właściciel',
+'LBL_ROLE'=>'Rola',
+'LBL_NAME'=>'Nazwa',
+'LBL_DESCRIPTION'=>'Opis',
 'LIST_ROLES'=>'List Roles',
-'LBL_USERS_SUBPANEL_TITLE'=>'Users',
+'LBL_USERS_SUBPANEL_TITLE'=>'Użytkownicy',
 'LIST_ROLES_BY_USER'=>'List Roles By User',
-'LBL_ROLES_SUBPANEL_TITLE'=>'User Roles',
-'LBL_SEARCH_FORM_TITLE'=>'Search',
+'LBL_ROLES_SUBPANEL_TITLE'=>'Role użytkowników',
+'LBL_SEARCH_FORM_TITLE'=>'Szukaj',
 'LBL_NO_ACCESS'=>'You do not have access to this area. Contact your site administrator to obtain access.',
 'LBL_REDIRECT_TO_HOME'=>'Redirect to Home in',
-'LBL_SECONDS'=>'seconds',
+'LBL_SECONDS'=>'sekund',
 'LBL_ADDING'=>'Adding for ',
 
 )

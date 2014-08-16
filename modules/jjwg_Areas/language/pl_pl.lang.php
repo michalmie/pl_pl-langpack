@@ -1,21 +1,21 @@
 <?php
 
 $mod_strings['LBL_ASSIGNED_TO_ID'] = 'Assigned User Id';
-$mod_strings['LBL_ASSIGNED_TO_NAME'] = 'User';
+$mod_strings['LBL_ASSIGNED_TO_NAME'] = 'Użytkownik';
 $mod_strings['LBL_ID'] = 'ID';
-$mod_strings['LBL_DATE_ENTERED'] = 'Date Created';
-$mod_strings['LBL_DATE_MODIFIED'] = 'Date Modified';
-$mod_strings['LBL_MODIFIED'] = 'Modified By';
-$mod_strings['LBL_MODIFIED_ID'] = 'Modified By Id';
+$mod_strings['LBL_DATE_ENTERED'] = 'Data utworzenia';
+$mod_strings['LBL_DATE_MODIFIED'] = 'Data modyfikacji';
+$mod_strings['LBL_MODIFIED'] = 'Zmodyfikowane przez';
+$mod_strings['LBL_MODIFIED_ID'] = 'Zmodyfikowane przez Id';
 $mod_strings['LBL_MODIFIED_NAME'] = 'Modified By Name';
-$mod_strings['LBL_CREATED'] = 'Created By';
-$mod_strings['LBL_CREATED_ID'] = 'Created By Id';
-$mod_strings['LBL_DESCRIPTION'] = 'Description';
+$mod_strings['LBL_CREATED'] = 'Utworzone przez';
+$mod_strings['LBL_CREATED_ID'] = 'Utworzone przez Id';
+$mod_strings['LBL_DESCRIPTION'] = 'Opis';
 $mod_strings['LBL_DELETED'] = 'Deleted';
-$mod_strings['LBL_NAME'] = 'Name';
-$mod_strings['LBL_CREATED_USER'] = 'Created by User';
-$mod_strings['LBL_MODIFIED_USER'] = 'Modified by User';
-$mod_strings['LBL_LIST_NAME'] = 'Name';
+$mod_strings['LBL_NAME'] = 'Nazwa';
+$mod_strings['LBL_CREATED_USER'] = 'Utworzone przez użytkownika';
+$mod_strings['LBL_MODIFIED_USER'] = 'Zmodyfikowane przez użytkownika';
+$mod_strings['LBL_LIST_NAME'] = 'Nazwa';
 $mod_strings['LBL_LIST_FORM_TITLE'] = 'Areas List';
 $mod_strings['LBL_MODULE_NAME'] = 'Areas';
 $mod_strings['LBL_MODULE_TITLE'] = 'Areas';

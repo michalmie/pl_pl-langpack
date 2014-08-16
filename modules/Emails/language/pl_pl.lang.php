@@ -307,7 +307,7 @@ $mod_strings = array (
 	'LBL_STATUS'				=> 'Email Status:',
 	'LBL_EMAIL_FLAGGED'			=> 'Flagged:',
 	'LBL_EMAIL_REPLY_TO_STATUS'	=> 'Reply To Status:',
-	'LBL_TYPE'					=> 'Type:',
+	'LBL_TYPE'					=> 'Rodzaj:',
 	//#20680 EmialTemplate Ext.Message.show;
 	'LBL_EMAILTEMPLATE_MESSAGE_SHOW_TITLE' => 'Please check!',
 	'LBL_EMAILTEMPLATE_MESSAGE_SHOW_MSG' => 'Selecting this template will overwrite any data already entered within the email body. Do you wish to continue?',
@@ -398,7 +398,7 @@ $mod_strings = array (
 	// SNIP
 	'LBL_CONTACTS_SUBPANEL_TITLE_SNIP' => 'Email Contacts',
 	'LBL_EMAILS_MEETINGS_REL' => 'Emails:Meetings',
-	'LBL_DATE_CREATED' => 'Date Created',
-	'LBL_DATE_MODIFIED' => 'Date Modified',
+	'LBL_DATE_CREATED' => 'Data utworzenia',
+	'LBL_DATE_MODIFIED' => 'Data modyfikacji',
 );
 

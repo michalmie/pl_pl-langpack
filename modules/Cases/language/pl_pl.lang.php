@@ -126,10 +126,10 @@ $mod_strings = array (
     'LBL_MODIFIED_USER_NAME_MOD' => 'Modified User Name Mod',
     'LBL_PORTAL_VIEWABLE' => 'Portal Viewable',
     'LBL_EXPORT_ASSIGNED_USER_ID' => 'Assigned User ID',
-    'LBL_EXPORT_MODIFIED_USER_ID' => 'Modified By ID',
-    'LBL_EXPORT_CREATED_BY' => 'Created By ID',
-    'LBL_EXPORT_CREATED_BY_NAME' => 'Created By User Name',
-    'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Assigned User Name',
+    'LBL_EXPORT_MODIFIED_USER_ID' => 'Zmodyfikowane ID',
+    'LBL_EXPORT_CREATED_BY' => 'Utworzone przez ID',
+    'LBL_EXPORT_CREATED_BY_NAME' => 'Utworzone przez użytkownika',
+    'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Przypisany użytkownik',
     'LBL_EXPORT_TEAM_COUNT' => 'Team Count',
 
     // SNIP

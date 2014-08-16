@@ -52,7 +52,7 @@ $mod_strings = array (
   'LBL_NEW_FORM_TITLE' => 'Nowy kontakt',
   'LBL_FIRST_NAME' => 'Imię:',
   'LBL_LAST_NAME' => 'Nazwisko:',
-  'LBL_LIST_LAST_NAME' => 'Last Name',
+  'LBL_LIST_LAST_NAME' => 'Nazwisko',
   'LBL_PHONE' => 'Telefon:',
   'LBL_EMAIL_ADDRESS' => 'Email:',
   'LBL_MY_PIPELINE_FORM_TITLE' => 'Mój lejek sprzedaży',
@@ -84,16 +84,16 @@ $mod_strings = array (
 
   'LBL_RELOAD_PAGE' => 'Please <a href="javascript: window.location.reload()">reload the window</a> to use this Sugar Dashlet.',
   'LBL_ADD_DASHLETS' => 'Add Sugar Dashlets',
-  'LBL_ADD_PAGE' => 'Add Page',
-  'LBL_DEL_PAGE' => 'Delete Page',
+  'LBL_ADD_PAGE' => 'Dodaj stronę',
+  'LBL_DEL_PAGE' => 'Usuń stronę',
   'LBL_WEBSITE_TITLE' => 'Website',
   'LBL_RSS_TITLE' => 'News Feed',
-  'LBL_DELETE_PAGE' => 'Delete Page',
+  'LBL_DELETE_PAGE' => 'Usuń stronę',
   'LBL_CHANGE_LAYOUT' => 'Change Layout',
-  'LBL_RENAME_PAGE' => 'Rename Page',
-  'LBL_CLOSE_DASHLETS' => 'Close',
-  'LBL_CLOSE_SITEMAP' => 'Close',
-  'LBL_OPTIONS' => 'Options',
+  'LBL_RENAME_PAGE' => 'Zmień nazwę strony',
+  'LBL_CLOSE_DASHLETS' => 'Zamknij',
+  'LBL_CLOSE_SITEMAP' => 'Zamknij',
+  'LBL_OPTIONS' => 'Opcje',
   // dashlet search fields
   'LBL_TODAY'=>'Dziś',
   'LBL_YESTERDAY' => 'Wczoraj',
@@ -134,8 +134,8 @@ $mod_strings = array (
   'LBL_REMOVED_DASHLET' => 'Sugar Dashlet Removed',
   'LBL_DASHLET_CONFIGURE_GENERAL' => 'General',
   'LBL_DASHLET_CONFIGURE_FILTERS' => 'Filters',
-  'LBL_DASHLET_CONFIGURE_MY_ITEMS_ONLY' => 'Only My Items',
-  'LBL_DASHLET_CONFIGURE_TITLE' => 'Title',
+  'LBL_DASHLET_CONFIGURE_MY_ITEMS_ONLY' => 'Wyłącznie moje elementy',
+  'LBL_DASHLET_CONFIGURE_TITLE' => 'Tytuł',
   'LBL_DASHLET_CONFIGURE_DISPLAY_ROWS' => 'Display Rows',
 
   'LBL_DASHLET_DELETE' => 'Delete Sugar Dashlet',
@@ -152,14 +152,14 @@ $mod_strings = array (
 
   // Default out-of-box names for tabs
   'LBL_HOME_PAGE_1_NAME' => 'My Sugar',
-  'LBL_HOME_PAGE_2_NAME' => 'Sales',
+  'LBL_HOME_PAGE_2_NAME' => 'Sprzedaż',
   'LBL_HOME_PAGE_3_NAME' => 'Support',
   'LBL_HOME_PAGE_6_NAME' => 'Marketing',//bug 16510, separate the support and marketing page from each other
   'LBL_HOME_PAGE_4_NAME' => 'Tracker',
-  'LBL_CLOSE_SITEMAP' =>'Close',
+  'LBL_CLOSE_SITEMAP' =>'Zapisz',
 
-  'LBL_SEARCH' => 'Search',
-  'LBL_CLEAR' => 'Clear',
+  'LBL_SEARCH' => 'Szukaj',
+  'LBL_CLEAR' => 'Wyczyść',
 
   'LBL_BASIC_CHARTS' => 'Basic Charts',
   'LBL_REPORT_CHARTS' => 'Report Charts',
