@@ -39,10 +39,10 @@
 
 $mod_strings = array (
   'LBL_ASSIGNED_TO_ID' => 'Assigned User Id',
-  'LBL_ASSIGNED_TO_NAME' => 'Assigned to',
+  'LBL_ASSIGNED_TO_NAME' => 'Przypisane do',
   'LBL_ID' => 'ID',
-  'LBL_DATE_ENTERED' => 'Date Created',
-  'LBL_DATE_MODIFIED' => 'Date Modified',
+  'LBL_DATE_ENTERED' => 'Data utworzenia',
+  'LBL_DATE_MODIFIED' => 'Data modyfikacji',
   'LBL_MODIFIED' => 'Modified By',
   'LBL_MODIFIED_ID' => 'Modified By Id',
   'LBL_MODIFIED_NAME' => 'Modified By Name',

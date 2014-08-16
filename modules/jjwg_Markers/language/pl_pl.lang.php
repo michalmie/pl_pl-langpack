@@ -34,7 +34,7 @@ $mod_strings['LBL_COUNTRY'] = 'Country';
 $mod_strings['LBL_JJWG_MAPS_LAT'] = 'Latitude';
 $mod_strings['LBL_JJWG_MAPS_LNG'] = 'Longitude';
 $mod_strings['LBL_MARKER_IMAGE'] = 'Marker Image Type';
-$mod_strings['LBL_LIST_ASSIGNED_USER'] = 'Assigned To';
+$mod_strings['LBL_LIST_ASSIGNED_USER'] = 'Przypisane do';
 $mod_strings['LBL_MARKER_MAP'] = 'Marker Map';
 
 $mod_strings['LBL_MARKER_MARKER_POSITION'] = 'Marker Position (Latitude, Longitude):';
