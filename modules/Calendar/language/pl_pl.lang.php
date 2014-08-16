@@ -103,11 +103,11 @@ $mod_strings = array (
 	'LBL_ERROR_LOADING' => 'Error while loading',
 	'LBL_GOTO_DATE' => 'Goto Date',
 	'NOTICE_DURATION_TIME' => 'Duration time must be greater than 0',
-	'LBL_STYLE_BASIC' => 'Basic',
-	'LBL_STYLE_ADVANCED' => 'Advanced',
+	'LBL_STYLE_BASIC' => 'Podstawowe',
+	'LBL_STYLE_ADVANCED' => 'Zaawansowane',
 
 	'LBL_INFO_TITLE' => 'Additional Details',
-	'LBL_INFO_DESC' => 'Description',
+	'LBL_INFO_DESC' => 'Opis',
 	'LBL_INFO_START_DT' => 'Data rozpoczęcia',
 	'LBL_INFO_DUE_DT' => 'Data zakończenia',
 	'LBL_INFO_DURATION' => 'Czas trwania',
@@ -115,9 +115,9 @@ $mod_strings = array (
 	'LBL_INFO_RELATED_TO' => 'Powiązane z',
 
 	'LBL_NO_USER' => 'No match for field: Assigned to',
-	'LBL_SUBJECT' => 'Subject',
-	'LBL_DURATION' => 'Duration',
-	'LBL_STATUS' => 'Status',
+	'LBL_SUBJECT' => 'Temat',
+	'LBL_DURATION' => 'Czas trwania',
+	'LBL_STATUS' => 'Stan',
 	'LBL_DATE_TIME' => 'Data i czas',
 
 

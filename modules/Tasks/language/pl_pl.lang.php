@@ -87,7 +87,7 @@ $mod_strings = array (
   'LBL_NAME' => 'Nazwa:',
   'LBL_CONTACT_NAME' => 'Nazwa kontaktu ',
   'LBL_LIST_COMPLETE' => 'Complete:',
-  'LBL_LIST_STATUS' => 'Status',
+  'LBL_LIST_STATUS' => 'Stan',
   'LBL_DATE_DUE_FLAG' => 'Brak daty ukończenia',
   'LBL_DATE_START_FLAG' => 'Brak daty rozpoczęcia',
   'ERR_DELETE_RECORD' => 'You must specify a record number to delete the contact.',
@@ -110,7 +110,7 @@ $mod_strings = array (
   'LBL_TASK_INFORMATION' => 'Task Overview',
   'LBL_EDITLAYOUT' => 'Edit Layout' /*for 508 compliance fix*/,
   'LBL_TASK_INFORMATION' => 'Overview',
-  'LBL_HISTORY_SUBPANEL_TITLE' => 'Notes',
+  'LBL_HISTORY_SUBPANEL_TITLE' => 'Notatki',
   //For export labels
   'LBL_DATE_DUE' => 'Date Due',
   'LBL_EXPORT_ASSIGNED_USER_NAME' => 'Assigned User Name',

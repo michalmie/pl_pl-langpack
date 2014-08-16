@@ -2010,7 +2010,7 @@ $app_strings = array (
     'LBL_SQS_INDICATOR' => '',
     'LBL_STATE' => 'State:',
     'LBL_STATUS_UPDATED'=>'Your Status for this event has been updated!',
-    'LBL_STATUS'=>'Status:',
+    'LBL_STATUS'=>'Stan:',
     'LBL_STREET'=>'Ulica',
     'LBL_SUBJECT' => 'Temat',
 
