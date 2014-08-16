@@ -113,7 +113,7 @@ $mod_strings = array (
   'LBL_LIST_ASSIGNED_TO_NAME' => 'Przypisany użytkownik',
 	'LBL_ASSIGNED_TO_NAME' => 'Przypisane do',
 
-	'LBL_BUG_INFORMATION' => 'Overview',
+	'LBL_BUG_INFORMATION' => 'Przegląd',
 
     //For export labels
 	'LBL_FOUND_IN_RELEASE_NAME' => 'Found In Release Name',

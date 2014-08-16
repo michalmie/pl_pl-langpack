@@ -167,10 +167,10 @@ $mod_strings = array (
 	'LBL_CONTRACTS_SUBPANEL_TITLE'=>'Related Contracts',
 	'LBL_LAST_REV_CREATE_DATE'=>'Last Revision Create Date',
     //'LNK_DOCUMENT_CAT'=>'Document Categories',
-    'LBL_CONTRACTS' => 'Contracts',
+    'LBL_CONTRACTS' => 'Kontrakty',
     'LBL_CREATED_USER' => 'Created User',
     'LBL_THEREVISIONS_SUBPANEL_TITLE' => 'Reversions',
-    'LBL_DOCUMENT_INFORMATION' => 'Overview',
+    'LBL_DOCUMENT_INFORMATION' => 'Przegląd',
 	'LBL_DOC_ID' => 'Document Source ID',
 	'LBL_DOC_TYPE' => 'Source',
 	'LBL_LIST_DOC_TYPE' => 'Source',
@@ -183,13 +183,13 @@ $mod_strings = array (
     'ERR_INVALID_EXTERNAL_API_LOGIN' => 'The login check failed for external API ({0})',
 
     // Links around the world
-    'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Accounts',
-    'LBL_CONTACTS_SUBPANEL_TITLE' => 'Contacts',
-    'LBL_OPPORTUNITIES_SUBPANEL_TITLE' => 'Opportunities',
-    'LBL_CASES_SUBPANEL_TITLE' => 'Cases',
-    'LBL_BUGS_SUBPANEL_TITLE' => 'Bugs',
+    'LBL_ACCOUNTS_SUBPANEL_TITLE' => 'Konta',
+    'LBL_CONTACTS_SUBPANEL_TITLE' => 'Kontakty',
+    'LBL_OPPORTUNITIES_SUBPANEL_TITLE' => 'Szanse sprzedaży',
+    'LBL_CASES_SUBPANEL_TITLE' => 'Zgłoszenia serwisowe',
+    'LBL_BUGS_SUBPANEL_TITLE' => 'Błędy',
     'LBL_QUOTES_SUBPANEL_TITLE' => 'Quotes',
-	'LBL_PRODUCTS_SUBPANEL_TITLE' => 'Products',
+	'LBL_PRODUCTS_SUBPANEL_TITLE' => 'Produkty',
 );
 
 

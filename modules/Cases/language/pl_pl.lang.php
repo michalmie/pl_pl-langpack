@@ -78,7 +78,7 @@ $mod_strings = array (
 	'LBL_RESOLUTION'					=> 'Rozwiązanie:',
 	'LBL_SEARCH_FORM_TITLE'				=> 'Case Search',
 	'LBL_STATUS'						=> 'Stan:',
-	'LBL_SUBJECT'						=> 'Subject:',
+	'LBL_SUBJECT'						=> 'Temat:',
 	'LBL_SYSTEM_ID'						=> 'System ID',
 	'LBL_LIST_ASSIGNED_TO_NAME' 		=> 'Przypisany użytkownik',
 	'LBL_LIST_ACCOUNT_NAME'				=> 'Nazwa konta',
@@ -106,7 +106,7 @@ $mod_strings = array (
     'LBL_CREATED_USER' => 'Created User',
     'LBL_MODIFIED_USER' => 'Modified User',
     'LBL_PROJECT_SUBPANEL_TITLE' => 'Projects',
-    'LBL_CASE_INFORMATION' => 'Overview',
+    'LBL_CASE_INFORMATION' => 'Przegląd',
 
     //For export labels
     'LBL_MODIFIED_BY_NAME_OWNER' => 'Modified By Name Owner',
