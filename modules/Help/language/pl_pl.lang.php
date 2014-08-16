@@ -47,20 +47,20 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
  ********************************************************************************/
 
 $mod_strings = array (
-  'LBL_MODULE_NAME' => 'Accounts',
-  'LBL_MODULE_TITLE' => 'Accounts: Home',
-  'LBL_SEARCH_FORM_TITLE' => 'Account Search',
-  'LBL_LIST_FORM_TITLE' => 'Account List',
-  'LBL_NEW_FORM_TITLE' => 'Create Account',
-  'LNK_NEW_CONTACT' => 'Create Contact',
-  'LNK_NEW_ACCOUNT' => 'Create Account',
-  'LNK_NEW_OPPORTUNITY' => 'Create Opportunity',
-  'LNK_NEW_CASE' => 'Create Case',
-  'LNK_NEW_NOTE' => 'Create Note or Attachment',
+  'LBL_MODULE_NAME' => 'Konta',
+  'LBL_MODULE_TITLE' => 'Konta: Strona główna',
+  'LBL_SEARCH_FORM_TITLE' => 'Wyszukiwanie kont',
+  'LBL_LIST_FORM_TITLE' => 'Lista kont',
+  'LBL_NEW_FORM_TITLE' => 'Utwórz konto',
+  'LNK_NEW_CONTACT' => 'Utwórz kontakt',
+  'LNK_NEW_ACCOUNT' => 'Utwórz konto',
+  'LNK_NEW_OPPORTUNITY' => 'Utwórz szansę sprzedaży',
+  'LNK_NEW_CASE' => 'Utwórz zgłoszenie serwisowe',
+  'LNK_NEW_NOTE' => 'Utwórz notatkę lub załącznik',
   'LNK_NEW_CALL' => 'Log Call',
   'LNK_NEW_EMAIL' => 'Archive Email',
-  'LNK_NEW_MEETING' => 'Schedule Meeting',
-  'LNK_NEW_TASK' => 'Create Task',
+  'LNK_NEW_MEETING' => 'Zaplanuj spotkanie',
+  'LNK_NEW_TASK' => 'Utwórz zadanie',
   'ERR_DELETE_RECORD' => 'A record number must be specified to delete the account.',
 );
 
