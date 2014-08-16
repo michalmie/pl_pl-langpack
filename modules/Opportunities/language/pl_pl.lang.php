@@ -63,8 +63,8 @@ $mod_strings = array (
   'LBL_LIST_AMOUNT_USDOLLAR' => 'Wartość',
   'LBL_LIST_DATE_CLOSED' => 'Zamknij',
   'LBL_LIST_SALES_STAGE' => 'Etap sprzedaży',
-  'LBL_ACCOUNT_ID'=>'Account ID',
-  'LBL_CURRENCY_ID'=>'Currency ID',
+  'LBL_ACCOUNT_ID'=>'ID konta',
+  'LBL_CURRENCY_ID'=>'ID waluty',
   'LBL_CURRENCY_NAME'=>'Nazwa waluty',
   'LBL_CURRENCY_SYMBOL'=>'Symbol waluty',
 //DON'T CONVERT THESE THEY ARE MAPPINGS

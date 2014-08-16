@@ -56,9 +56,9 @@ $mod_strings = array (
   'LBL_REPORT_MODULE' => 'Moduł raportów',
   'LBL_FIELD_LINES' => 'Display Fields',
   'LBL_ADD_FIELD' => 'Dodaj pole',
-  'LBL_CONDITION_LINES' => 'Conditions',
-  'LBL_ADD_CONDITION' => 'Add Condition',
+  'LBL_CONDITION_LINES' => 'Warunki',
+  'LBL_ADD_CONDITION' => 'Dodaj warunek',
   'LBL_EXPORT' => 'Eksportuj',
-  'LBL_DOWNLOAD_PDF' => 'Download PDF',
+  'LBL_DOWNLOAD_PDF' => 'Pobierz PDF',
   'LBL_ADD_TO_PROSPECT_LIST' => 'Add To Target List',
 );

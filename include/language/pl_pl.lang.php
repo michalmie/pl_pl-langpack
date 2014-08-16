@@ -1006,7 +1006,7 @@ $app_list_strings = array (
   ),
 
   'navigation_paradigms' => array(
-        'm'=>'Modules',
+        'm'=>'Moduły',
         'gm'=>'Grouped Modules',
   ),
 
