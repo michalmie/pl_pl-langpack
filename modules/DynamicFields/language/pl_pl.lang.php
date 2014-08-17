@@ -48,7 +48,7 @@ if(!defined('sugarEntry') || !sugarEntry) die('Not A Valid Entry Point');
 
 
 $mod_strings = array (
-    'LNK_NEW_CALL' => 'Log Call',
+    'LNK_NEW_CALL' => 'Odnotuj telefon',
     'LNK_NEW_MEETING' => 'Zaplanuj spotkanie',
     'LNK_NEW_TASK' => 'Utwórz zadanie',
     'LNK_NEW_NOTE' => 'Utwórz notatkę lub załącznik',

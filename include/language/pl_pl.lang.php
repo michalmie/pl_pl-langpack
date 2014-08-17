@@ -69,35 +69,35 @@ $app_list_strings = array (
     'Activities' => 'Działania',
     'Bugs' => 'Błędy',
     'Feeds' => 'RSS',
-    'iFrames'=>'My Sites',
+    'iFrames'=>'Moje strony',
     'TimePeriods'=>'Time Periods',
     'TaxRates'=>'Stawki podatku',
-    'ContractTypes' => 'Contract Types',
+    'ContractTypes' => 'Rodzaje kontraktów',
     'Schedulers'=>'Schedulers',
     'Project'=>'Projekty',
-    'ProjectTask'=>'Project Tasks',
+    'ProjectTask'=>'Zadania projektowe',
     'Campaigns'=>'Kampanie',
     'CampaignLog'=>'Historia kampanii',
     'Documents'=>'Dokumenty',
     'DocumentRevisions'=>'Document Revisions',
     'Connectors'=>'Connectors',
-    'Roles'=>'Roles',
+    'Roles'=>'Role',
     'Notifications'=>'Powiadomienia',
     'Sync'=>'Sync',
     'Users' => 'Użytkownicy',
     'Employees' => 'Pracownicy',
     'Administration' => 'Panel administratora',
-    'ACLRoles' => 'Roles',
+    'ACLRoles' => 'Role',
     'InboundEmail' => 'Inbound Email',
     'Releases' => 'Releases',
     'Prospects' => 'Targets',
-    'Queues' => 'Queues',
+    'Queues' => 'Ofert',
     'EmailMarketing' => 'Email Marketing',
     'EmailTemplates' => 'Email Templates',
     'SNIP' => "Email Archiving",
     'ProspectLists' => 'Target Lists',
-    'SavedSearch' => 'Saved Searches',
-    'UpgradeWizard' => 'Upgrade Wizard',
+    'SavedSearch' => 'Zapisane wyszukiwania',
+    'UpgradeWizard' => 'Kreator aktualizacji',
     'Trackers' => 'Trackers',
     'TrackerPerfs' => 'Tracker Performance',
     'TrackerSessions' => 'Tracker Sessions',
@@ -131,7 +131,7 @@ $app_list_strings = array (
     'Bugs' => 'Błąd',
     'KBDocuments' => 'KBDocument',
     'Feeds' => 'RSS',
-    'iFrames'=>'My Sites',
+    'iFrames'=>'Moje strony',
     'TimePeriods'=>'Time Period',
     'Project'=>'Projekt',
     'ProjectTask'=>'Project Task',
@@ -198,26 +198,26 @@ $app_list_strings = array (
     'Technology' => 'Technologie',
     'Telecommunications' => 'Telekomunikacja',
     'Transportation' => 'Transport',
-    'Utilities' => 'Utilities',
+    'Utilities' => 'Użyteczność publiczna',
     'Other' => 'Inne',
   ),
   'lead_source_default_key' => 'Self Generated',
   'lead_source_dom' =>
   array (
     '' => '',
-    'Cold Call' => 'Cold Call',
-    'Existing Customer' => 'Existing Customer',
+    'Cold Call' => 'Telemarketing',
+    'Existing Customer' => 'Istniejący klient',
     'Self Generated' => 'Self Generated',
     'Employee' => 'Pracownik',
     'Partner' => 'Partner',
     'Public Relations' => 'Public Relations',
-    'Direct Mail' => 'Direct Mail',
+    'Direct Mail' => 'Tradycyjna poczta',
     'Conference' => 'Konferencja',
     'Trade Show' => 'Targi',
     'Web Site' => 'Strona internetowa',
     'Word of mouth' => 'Marketing szeptany',
     'Email' => 'Email',
-    'Campaign'=>'Campaign',
+    'Campaign'=>'Kampania',
     'Other' => 'Inne',
   ),
   'opportunity_type_dom' =>
@@ -228,10 +228,10 @@ $app_list_strings = array (
   ),
   'roi_type_dom' =>
     array (
-    'Revenue' => 'Revenue',
-    'Investment'=>'Investment',
-    'Expected_Revenue'=>'Expected Revenue',
-    'Budget'=>'Budget',
+    'Revenue' => 'Przychód',
+    'Investment'=>'Inwestycja',
+    'Expected_Revenue'=>'Przewidywany przychód',
+    'Budget'=>'Budżet',
 
   ),
   //Note:  do not translate opportunity_relationship_type_default_key
@@ -283,8 +283,8 @@ $app_list_strings = array (
     'Closed Lost' => 'Closed Lost',
   ),
   'in_total_group_stages' => array (
-    'Draft' => 'Draft',
-    'Negotiation' => 'Negotiation',
+    'Draft' => 'Szkic',
+    'Negotiation' => 'Negocjacje',
     'Delivered' => 'Delivered',
     'On Hold' => 'On Hold',
     'Confirmed' => 'Confirmed',
@@ -349,8 +349,8 @@ $app_list_strings = array (
     'Not Started' => 'Nierozpoczęte',
     'In Progress' => 'W trakcie',
     'Completed' => 'Zakończone',
-    'Pending Input' => 'Pending Input',
-    'Deferred' => 'Deferred',
+    'Pending Input' => 'Oczekiwanie',
+    'Deferred' => 'Odroczone',
   ),
   'meeting_status_default' => 'Planned',
   'meeting_status_dom' =>
@@ -365,7 +365,7 @@ $app_list_strings = array (
   ),
   'meeting_type_dom' =>
    array (
-      'Other' => 'Other',
+      'Other' => 'Inne',
       'Sugar' => 'SugarCRM',
    ),
   'call_status_default' => 'Planned',
@@ -384,12 +384,12 @@ $app_list_strings = array (
   'lead_status_dom' =>
   array (
     '' => '',
-    'New' => 'New',
-    'Assigned' => 'Assigned',
-    'In Process' => 'In Process',
-    'Converted' => 'Converted',
-    'Recycled' => 'Recycled',
-    'Dead' => 'Dead',
+    'New' => 'Nowy',
+    'Assigned' => 'Przypisany',
+    'In Process' => 'W trakcie',
+    'Converted' => 'Skonwertowany',
+    'Recycled' => 'Wznowiony',
+    'Dead' => 'Utracony',
   ),
    'gender_list' =>
   array (
@@ -401,12 +401,12 @@ $app_list_strings = array (
   'case_status_default_key' => 'New',
   'case_status_dom' =>
   array (
-    'New' => 'New',
-    'Assigned' => 'Assigned',
-    'Closed' => 'Closed',
-    'Pending Input' => 'Pending Input',
-    'Rejected' => 'Rejected',
-    'Duplicate' => 'Duplicate',
+    'New' => 'Nowe',
+    'Assigned' => 'Przypisane',
+    'Closed' => 'Zamknięte',
+    'Pending Input' => 'Oczekiwanie',
+    'Rejected' => 'Odrzucone',
+    'Duplicate' => 'Duplikat',
   ),
   'case_priority_default_key' => 'P2',
   'case_priority_dom' =>
@@ -427,9 +427,9 @@ $app_list_strings = array (
   ),
   'employee_status_dom' =>
   array (
-    'Active' => 'Active',
-    'Terminated' => 'Terminated',
-    'Leave of Absence' => 'Leave of Absence',
+    'Active' => 'Aktywny',
+    'Terminated' => 'Wyłączony',
+    'Leave of Absence' => 'Urlop',
   ),
   'messenger_type_dom' =>
   array (
@@ -446,14 +446,14 @@ $app_list_strings = array (
     'project_task_priority_default' => 'Medium',
 
     'project_task_status_options' => array (
-        'Not Started' => 'Not Started',
-        'In Progress' => 'In Progress',
-        'Completed' => 'Completed',
-        'Pending Input' => 'Pending Input',
-        'Deferred' => 'Deferred',
+        'Not Started' => 'Nierozpoczęte',
+        'In Progress' => 'W trakcie',
+        'Completed' => 'Ukończone',
+        'Pending Input' => 'Oczekiwanie',
+        'Deferred' => 'Odroczone',
     ),
     'project_task_utilization_options' => array (
-        '0' => 'none',
+        '0' => 'brak',
         '25' => '25',
         '50' => '50',
         '75' => '75',
@@ -461,9 +461,9 @@ $app_list_strings = array (
     ),
 
     'project_status_dom' => array (
-        'Draft' => 'Draft',
+        'Draft' => 'Szkic',
         'In Review' => 'In Review',
-        'Published' => 'Published',
+        'Published' => 'Opublikowane',
     ),
     'project_status_default' => 'Draft',
 
@@ -495,7 +495,7 @@ $app_list_strings = array (
     'Project' => 'Projekt',
 
     'Prospects' => 'Target',
-    'ProjectTask' => 'Project Task',
+    'ProjectTask' => 'Zadanie projektowe',
 
 
     'Tasks' => 'Zadanie',
@@ -512,7 +512,7 @@ $app_list_strings = array (
 
     'Bugs' => 'Błąd',
     'Project' => 'Projekt',
-    'ProjectTask' => 'Project Task',
+    'ProjectTask' => 'Zadanie projektowe',
     'Prospects' => 'Target',
     'Cases' => 'Zgłoszenie serwisow',
     'Leads' => 'Potencjalny klient',
@@ -535,7 +535,7 @@ $app_list_strings = array (
     'Leads' => 'Potencjalny klient',
 
     'Project' => 'Projekt',
-    'ProjectTask' => 'Project Task',
+    'ProjectTask' => 'Zadanie projektowe',
 
     'Prospects' => 'Target',
 
@@ -553,11 +553,11 @@ $app_list_strings = array (
   'issue_resolution_dom' =>
   array (
     '' => '',
-    'Accepted' => 'Accepted',
-    'Duplicate' => 'Duplicate',
-    'Closed' => 'Closed',
-    'Out of Date' => 'Out of Date',
-    'Invalid' => 'Invalid',
+    'Accepted' => 'Zaakceptowane',
+    'Duplicate' => 'Duplkat',
+    'Closed' => 'Zamknięte',
+    'Out of Date' => 'Przeterminowane',
+    'Invalid' => 'Nieprawidłowe',
   ),
 
   'issue_status_default_key' => 'New',
@@ -651,7 +651,7 @@ $app_list_strings = array (
     'Releases' => 'Releases',
     'RSS' => 'RSS',
     'Studio' => 'Studio',
-    'Upgrade' => 'Upgrade',
+    'Upgrade' => 'Aktualizacja',
     'Users' => 'Użytkownicy',
   ),
   /*Added entries 'Queued' and 'Sending' for 4.0 release..*/
@@ -2183,7 +2183,7 @@ $app_strings = array (
     'LBL_CREATE_CASE' => 'Utwórz zgłoszenie serwisowe',
     'LBL_CREATE_NOTE' => 'Utwórz notatkę',
     'LBL_CREATE_OPPORTUNITY' => 'Utwórz szansę sprzedaży',
-    'LBL_SCHEDULE_CALL' => 'Log Call',
+    'LBL_SCHEDULE_CALL' => 'Odnotuj telefon',
     'LBL_SCHEDULE_MEETING' => 'Zaplanuj spotkanie',
     'LBL_CREATE_TASK' => 'Utwórz zadanie',
     'LBL_REMOVE_FROM_FAVORITES' => 'Usuń z ulubionych',
@@ -2308,7 +2308,7 @@ $app_strings = array (
     'LBL_LIST' => 'List',
     'LBL_CREATE_CASE' => 'Utwórz zgłoszenie serwisowe',
     'LBL_CREATE_BUG' => 'Utwórz błąd',
-    'LBL_NO_RECORDS_FOUND' => '- 0 Records Found -',
+    'LBL_NO_RECORDS_FOUND' => '- Znaleziono 0 rekordów -',
 
     'DATA_TYPE_DUE' => 'Due:',
     'DATA_TYPE_START' => 'Start:',

@@ -38,9 +38,9 @@ $app_list_strings['case_state_default_key'] = 'Open';
 $app_list_strings['case_status_default_key'] = 'Open_New';
 $app_list_strings['case_status_dom'] =
   array (
-      'Open_New' => 'New',
-      'Open_Assigned' => 'Assigned',
-      'Closed_Closed' => 'Closed',
+      'Open_New' => 'Nowe',
+      'Open_Assigned' => 'Przypisane',
+      'Closed_Closed' => 'Zamknięte',
       'Open_Pending Input' => 'Pending Input',
       'Closed_Rejected' => 'Rejected',
       'Closed_Duplicate' => 'Duplicate',

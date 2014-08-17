@@ -87,7 +87,7 @@ $mod_strings = array (
     'LBL_YEAR_BY_OUTCOME' => 'Pipeline By Month By Outcome',
     'LBL_YEAR' => 'Year:',
     'LNK_NEW_ACCOUNT' => 'Utwórz konto',
-    'LNK_NEW_CALL' => 'Log Call',
+    'LNK_NEW_CALL' => 'Odnotuj telefon',
     'LNK_NEW_CASE' => 'Utwórz zgłoszenie serwisowe',
     'LNK_NEW_CONTACT' => 'Utwórz kontakt',
     'LNK_NEW_ISSUE' => 'Zgłoś błąd',
@@ -95,7 +95,7 @@ $mod_strings = array (
     'LNK_NEW_MEETING' => 'Zaplanuj spotkanie',
     'LNK_NEW_NOTE' => 'Utwórz notatkę lub załącznik',
     'LNK_NEW_OPPORTUNITY' => 'Utwórz szansę sprzedaży',
-    'LNK_NEW_QUOTE' => 'Create Quote',
+    'LNK_NEW_QUOTE' => 'Utwórz ofertę',
     'LNK_NEW_TASK' => 'Utwórz zadanie',
     'NTC_NO_LEGENDS' => 'Brak',
     

@@ -26,9 +26,9 @@ $app_strings['LBL_QUICK_CONTACT'] = 'Utwórz kontakt';
 $app_strings['LBL_QUICK_OPPORTUNITY'] = 'Utwórz szansę sprzedaży';
 $app_strings['LBL_QUICK_LEAD'] = 'Utwórz potencjalnego klienta';
 $app_strings['LBL_QUICK_DOCUMENT'] = 'Utwórz dokument';
-$app_strings['LBL_QUICK_CALL'] = 'Log Call';
+$app_strings['LBL_QUICK_CALL'] = 'Odnotuj telefon';
 $app_strings['LBL_QUICK_TASK'] = 'Utwórz zadanie';
-$app_strings['LBL_COLLECTION_TYPE'] = 'Type';
+$app_strings['LBL_COLLECTION_TYPE'] = 'Rodzaj';
 
 $app_strings['LBL_ADD_TAB'] = 'Dodaj zakłądkę';
 $app_strings['LBL_SUITE_DASHBOARD'] = 'Suite Dashboard';
