@@ -188,7 +188,7 @@ $mod_strings = array (
     'LBL_OPPORTUNITIES_SUBPANEL_TITLE' => 'Szanse sprzedaży',
     'LBL_CASES_SUBPANEL_TITLE' => 'Zgłoszenia serwisowe',
     'LBL_BUGS_SUBPANEL_TITLE' => 'Błędy',
-    'LBL_QUOTES_SUBPANEL_TITLE' => 'Quotes',
+    'LBL_QUOTES_SUBPANEL_TITLE' => 'Oferty',
 	'LBL_PRODUCTS_SUBPANEL_TITLE' => 'Produkty',
 );
 

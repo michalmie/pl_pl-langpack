@@ -88,7 +88,7 @@ $mod_strings = array (
 	'LBL_CONTACT_SUBPANEL_TITLE' => 'Kontakty',
 	'LBL_ACCOUNT_SUBPANEL_TITLE' => 'Konta',
 	'LBL_OPPORTUNITY_SUBPANEL_TITLE' => 'Szanse sprzedaży',
-	'LBL_QUOTE_SUBPANEL_TITLE' => 'Quotes',
+	'LBL_QUOTE_SUBPANEL_TITLE' => 'Oferty',
 
     // quick create label
     'LBL_NEW_FORM_TITLE' => 'Nowy projekt',
