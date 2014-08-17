@@ -123,10 +123,10 @@ $mod_strings = array (
 
 	'LBL_SETTINGS_TITLE' => 'Ustawienia',
 	'LBL_SETTINGS_DISPLAY_TIMESLOTS' => 'Display time slots in Day and Week views:',
-	'LBL_SETTINGS_TIME_STARTS'=>'Start time:', 
-	'LBL_SETTINGS_TIME_ENDS'=>'End time:', 
-	'LBL_SETTINGS_CALLS_SHOW' => 'Show Calls:',
-	'LBL_SETTINGS_TASKS_SHOW' => 'Show Tasks:',
+	'LBL_SETTINGS_TIME_STARTS'=>'Data rozpoczęcia:', 
+	'LBL_SETTINGS_TIME_ENDS'=>'Data zakończenia:', 
+	'LBL_SETTINGS_CALLS_SHOW' => 'Pokaż telefony:',
+	'LBL_SETTINGS_TASKS_SHOW' => 'Pokaż zadania:',
     'LBL_SETTINGS_COMPLETED_SHOW' => 'Show Completed Meetings, Calls and Tasks:',
 
 	'LBL_SAVE_BUTTON' => 'Zapisz',
